@@ -9,4 +9,4 @@ Hiding an NFT is not the same as burning an NFT.  However, if you burn an NFT, t
 
 {% file src="../../.gitbook/assets/Hide an NFT.mp4" %}
 
-![](../../.gitbook/assets/Hide.jpg)
+![](<../../.gitbook/assets/Hide (2).jpg>)

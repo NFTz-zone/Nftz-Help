@@ -18,4 +18,4 @@
 
 {% file src="../../.gitbook/assets/Burning an NFT.mp4" %}
 
-![](../../.gitbook/assets/Burn.jpg)
+![](<../../.gitbook/assets/Burn (2).jpg>)
