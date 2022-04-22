@@ -44,7 +44,7 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 **Watch our feature video below:**
 
-{% embed url="https://www.youtube.com/watch?v=z10dkR2T-qk" %}
+{% embed url="https://www.youtube.com/watch?t=3s&v=VASh7UMFH48" %}
 
 [I have a question: Bring me in contact with NFTZ.](contact-socials/contact-social-intro/)
 
