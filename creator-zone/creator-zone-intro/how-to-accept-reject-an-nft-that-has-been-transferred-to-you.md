@@ -8,3 +8,5 @@ On NFTz it's possible to gift other creators NFTs. The creator that receives the
 4. Choose accept or reject for each corresponding NFT.&#x20;
 
 {% file src="../../.gitbook/assets/Accept Transfer.mp4" %}
+
+![](<../../.gitbook/assets/accept or reject.jpg>)
