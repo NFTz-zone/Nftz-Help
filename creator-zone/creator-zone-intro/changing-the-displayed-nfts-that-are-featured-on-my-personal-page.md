@@ -7,6 +7,6 @@
 5. Simply click the NFTs you want to show so they appear on the right side.
 6. When you're finished, click '**save changes**'.
 
-
-
 {% file src="../../.gitbook/assets/Tutorial #1 setting up a featured page.gif" %}
+
+![](<../../.gitbook/assets/Making a Gallery.jpg>)

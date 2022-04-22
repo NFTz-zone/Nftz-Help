@@ -7,3 +7,5 @@
 5. Refresh your page after upload.
 
 {% file src="../../.gitbook/assets/Changing App icon.mp4" %}
+
+![](<../../.gitbook/assets/Changing App Icon.jpg>)

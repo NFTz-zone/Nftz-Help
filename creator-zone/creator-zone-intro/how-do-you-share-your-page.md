@@ -7,3 +7,5 @@ So, if your username is '@Love':
 You can share on other social media by using the URL line  ' love.nftz.zone '
 
 Other users know where to go to then. &#x20;
+
+![](<../../.gitbook/assets/Sharing (1).jpg>)

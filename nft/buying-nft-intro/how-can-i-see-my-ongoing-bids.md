@@ -7,4 +7,4 @@
 
 {% file src="../../.gitbook/assets/Showing and cancelling a bid.mp4" %}
 
-![](<../../.gitbook/assets/Opening closing bids (1).jpg>)
+![](<../../.gitbook/assets/Opening closing bids (1) (1).jpg>)

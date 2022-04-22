@@ -42,3 +42,7 @@ Here you can sort your NFTs by different fields such as 'most recent' or 'Low bu
 
 
 
+![](<../../.gitbook/assets/Meaning of the Tabs.jpg>)
+
+
+

@@ -19,3 +19,5 @@ On NFTz.zone its possible to make your own galleries. This is very handy if you 
 7\. Choose the NFT’s you want to show in your gallery \[They show up on right and become green]
 
 8\.  When you're finished press '**save changes**'.
+
+![](<../../.gitbook/assets/Making a Gallery 2 (1).jpg>)

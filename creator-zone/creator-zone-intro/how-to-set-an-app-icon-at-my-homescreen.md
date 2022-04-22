@@ -12,10 +12,12 @@
 3. &#x20;Choose '**Add to Home screen**'
 4. The app icon is now visible your the homescreen.
 
+**Reminder: you can switch your personal app icon other people can use.**&#x20;
 
 
-Android
 
 {% file src="../../.gitbook/assets/Setting up an app icon to homescreen.mp4" %}
 
-**Reminder: you can switch your personal app icon other people can use.**&#x20;
+![](<../../.gitbook/assets/Adding to homescreen (1).jpg>)
+
+![](<../../.gitbook/assets/Adding to homescreen 2.jpg>)
