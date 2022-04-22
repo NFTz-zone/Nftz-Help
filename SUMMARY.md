@@ -45,11 +45,12 @@
   * [Changing the displayed NFTs that are featured on my personal page?](creator-zone/creator-zone-intro/changing-the-displayed-nfts-that-are-featured-on-my-personal-page.md)
   * [How do you make a gallery on your personal page?](creator-zone/creator-zone-intro/how-do-you-make-a-gallery-on-your-personal-page.md)
   * [How do you make a URL path of your gallery? \[to share with others\]](creator-zone/creator-zone-intro/how-do-you-make-a-url-path-of-your-gallery-to-share-with-others.md)
-  * [How do you share your page?](creator-zone/creator-zone-intro/how-do-you-share-your-page.md)
+  * [How do you share your personal page?](creator-zone/creator-zone-intro/how-do-you-share-your-personal-page.md)
   * [How do you share your gallery URL path?](creator-zone/creator-zone-intro/how-do-you-share-your-gallery-url-path.md)
   * [How to accept/reject an NFT that has been transferred to you?](creator-zone/creator-zone-intro/how-to-accept-reject-an-nft-that-has-been-transferred-to-you.md)
   * [How to set an app icon at my homescreen?](creator-zone/creator-zone-intro/how-to-set-an-app-icon-at-my-homescreen.md)
   * [How to switch my app icon that other people can see?](creator-zone/creator-zone-intro/how-to-switch-my-app-icon-that-other-people-can-see.md)
+  * [How do you set an image banner at my personal page?](creator-zone/creator-zone-intro/how-do-you-set-an-image-banner-at-my-personal-page.md)
 
 ## 🎨 NFT Artist
 
