@@ -24,14 +24,6 @@ _d. Unlockable Content (any additional content you would like to provide to the 
 
 Congratulations you have just minted an NFT! :thumbsup:
 
-
-
-{% file src="../../.gitbook/assets/Minting an NFT.mp4" %}
-Minting an NFT
-{% endfile %}
-
-
-
 <details>
 
 <summary>Extra Options (for experienced creators)</summary>
@@ -56,5 +48,8 @@ To know more about this feature; go directly to [Traits by Extradata](broken-ref
 
 </details>
 
-####
+{% file src="../../.gitbook/assets/Minting an NFT.mp4" %}
+Minting an NFT
+{% endfile %}
 
+![](../../.gitbook/assets/Mint.jpg)
