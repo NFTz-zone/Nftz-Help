@@ -7,3 +7,6 @@
 3\. Copy the URL of the gallery. (for example: naderheads.nftz.zone/g/Genesis-Series)
 
 4\. Paste it where you want to share it.
+
+![](<../../.gitbook/assets/gallery share.jpg>)
+
