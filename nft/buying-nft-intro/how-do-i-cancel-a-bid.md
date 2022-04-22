@@ -9,3 +9,5 @@
 5. Press '**Cancel my bid**' next to the corresponding NFT.&#x20;
 
 {% file src="../../.gitbook/assets/Showing and cancelling a bid.mp4" %}
+
+![](<../../.gitbook/assets/Opening closing bids.jpg>)

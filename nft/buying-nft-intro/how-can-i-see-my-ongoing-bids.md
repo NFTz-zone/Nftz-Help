@@ -6,3 +6,5 @@
 4. Open 'My **Bids**'.&#x20;
 
 {% file src="../../.gitbook/assets/Showing and cancelling a bid.mp4" %}
+
+![](<../../.gitbook/assets/Opening closing bids (1).jpg>)
