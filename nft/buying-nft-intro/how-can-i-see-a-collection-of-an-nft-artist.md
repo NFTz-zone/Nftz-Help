@@ -9,3 +9,5 @@
 ****
 
 {% file src="../../.gitbook/assets/Showing a collection.mp4" %}
+
+![](../../.gitbook/assets/Collection.jpg)

@@ -10,3 +10,5 @@
 ****
 
 {% file src="../../.gitbook/assets/Showing Rarity Scores.mp4" %}
+
+![](<../../.gitbook/assets/Rarity Scores.jpg>)
