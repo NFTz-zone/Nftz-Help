@@ -18,3 +18,4 @@ When you are minting an NFT, you sometimes want to give royalties to other creat
 
 {% file src="../../.gitbook/assets/How to set royalties.mp4" %}
 
+![](../../.gitbook/assets/Royalties.jpg)
