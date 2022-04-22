@@ -10,7 +10,7 @@ If you want to learn more about NFTz you can connect to us on different social p
 
 **Watch our feature video below:**
 
-{% embed url="https://www.youtube.com/watch?v=z10dkR2T-qk" %}
+{% embed url="https://www.youtube.com/watch?t=3s&v=VASh7UMFH48" %}
 
 
 
