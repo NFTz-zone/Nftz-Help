@@ -5,3 +5,5 @@ Everybody who has ever made an account at NFTz.zone or at DiamondApp has a creat
 All your NFTs (created, purchased or received) will be shown on this personal page. Users with lots of NFT's can even make collections of their NFT's for easy showcasing. Some users even have multiple collections.&#x20;
 
 Remember it's your page and you can customize it to your taste!
+
+A creator zone is kind of like your App. You can even set your own App icon for it.
