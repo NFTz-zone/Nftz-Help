@@ -8,8 +8,8 @@
 6. Find the user you want to transfer to.
 7. Press '**Transfer Now**'.
 
+**If you need to remove the NFT serial from sale first you can go to** [How to close an NFT action?](how-to-close-an-nft-auction.md)
+
 {% file src="../../.gitbook/assets/How to transfer.mp4" %}
 
-
-
-**If you need to remove the NFT serial from sale first you can go to** [How to close an NFT action?](how-to-close-an-nft-auction.md)
+![](../../.gitbook/assets/Transfer.jpg)

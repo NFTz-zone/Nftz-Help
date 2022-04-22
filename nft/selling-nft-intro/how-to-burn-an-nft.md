@@ -17,3 +17,5 @@
 7\. Click **'Burn Serial # now**'
 
 {% file src="../../.gitbook/assets/Burning an NFT.mp4" %}
+
+![](../../.gitbook/assets/Burn.jpg)

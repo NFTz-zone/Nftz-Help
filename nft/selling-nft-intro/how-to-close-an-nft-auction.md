@@ -7,5 +7,11 @@
 5. Click the action '**Remove from Sale**'&#x20;
 
 {% file src="../../.gitbook/assets/How to close an auction Android.mp4" %}
+Android
+{% endfile %}
 
 {% file src="../../.gitbook/assets/How to close an auction PC.mp4" %}
+PC
+{% endfile %}
+
+![](<../../.gitbook/assets/Remove from Sale.jpg>)

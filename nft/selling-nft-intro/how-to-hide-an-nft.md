@@ -8,3 +8,5 @@ Hiding an NFT is not the same as burning an NFT.  However, if you burn an NFT, t
 4. Click '**Hide NFT**'&#x20;
 
 {% file src="../../.gitbook/assets/Hide an NFT.mp4" %}
+
+![](../../.gitbook/assets/Hide.jpg)
