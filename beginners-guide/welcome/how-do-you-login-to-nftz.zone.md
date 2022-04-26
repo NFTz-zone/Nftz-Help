@@ -8,7 +8,7 @@ For certain features on NFTz.zone you need to be logged in with a DeSo account. 
 
 #### Make sure you have an account by following this link:
 
-{% embed url="https://diamondapp.com/?r=U8DFDFSB" %}
+{% embed url="https://desocialworld.com" %}
 
 [CLICK HERE IF YOU WANT TO LEARN HOW TO CREATE AN ACCOUNT](how-do-you-make-a-deso-identity.md)
 

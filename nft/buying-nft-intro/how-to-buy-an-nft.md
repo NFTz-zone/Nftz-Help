@@ -40,3 +40,5 @@ _Custom Bid_
 {% endfile %}
 
 ![](<../../.gitbook/assets/picture NFTs.jpg>)
+
+**Disclaimer: It is important that an NFT is unique and not a copy of someone else's work to avoid copyright infringement. Be careful with buying NFTs from new creators, its possible that you are buying a copy of another artist. Make sure you do your own research.**

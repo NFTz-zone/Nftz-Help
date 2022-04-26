@@ -6,7 +6,7 @@ For using NFTz you need a Deso Identity. Think of it like making an account but 
 
 **Making an account**
 
-1. Go to **** [**https://diamondapp.com?r=U8DFDFSB**](https://diamondapp.com/?r=U8DFDFSB)****
+1. Go to **** [**https://desocialworld.com/**](https://desocialworld.com)****
 2. Click on **'Create Account'**
 3. Choose **'Sign up with DeSo seed'**
 4. Write down your seed phrase and secure it somewhere very safe (Dont ever lose it; or give it away; its your wallet!)
