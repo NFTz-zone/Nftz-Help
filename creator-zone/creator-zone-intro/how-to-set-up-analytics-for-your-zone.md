@@ -4,7 +4,7 @@ NFTz allows you to use Google Analytics to track traffic and interactions within
 
 1\) Head on over to [http://google.com/analytics](http://google.com/analytics) and click on "Get Started Today" on the top right, if you don't already have a Google Analytics account.  Otherwise click on "Sign in to Analytics."
 
-2\) If you already know how to use Google Analytics skip to step #5.  Otherwise proceed in order.
+2\) If you already know how to use Google Analytics skip to step #9.  Otherwise proceed in order.
 
 3\) Choose an account name, and press "next".
 
