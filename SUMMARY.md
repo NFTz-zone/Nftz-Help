@@ -51,6 +51,7 @@
   * [How to set an app icon at my homescreen?](creator-zone/creator-zone-intro/how-to-set-an-app-icon-at-my-homescreen.md)
   * [How to switch my app icon that other people can see?](creator-zone/creator-zone-intro/how-to-switch-my-app-icon-that-other-people-can-see.md)
   * [How do you set an image banner at my personal page?](creator-zone/creator-zone-intro/how-do-you-set-an-image-banner-at-my-personal-page.md)
+  * [How to set up analytics for your zone](creator-zone/creator-zone-intro/how-to-set-up-analytics-for-your-zone.md)
 
 ## 🎨 NFT Artist
 
