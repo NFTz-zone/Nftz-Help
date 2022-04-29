@@ -11,7 +11,8 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 3. Choose **'New NFT'**.
 4. Click on ‘**Add extra / collection data**’ box
 5. Use ‘**Form**’ to insert data by hand
-6. Mint the NFT.&#x20;
+6. Press '**Add +'** to include the traits.
+7. Mint the NFT.&#x20;
 
 **Traits by Form**
 
