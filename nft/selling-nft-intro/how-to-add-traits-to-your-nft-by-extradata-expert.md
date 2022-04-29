@@ -63,7 +63,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 
 **How this code will look like when used**
 
-![In Json](../../.gitbook/assets/20220428\_153208.jpg)
+![](../../.gitbook/assets/20220429\_115427.jpg)
 
 ![in Form](../../.gitbook/assets/20220428\_153521.jpg)
 
