@@ -23,9 +23,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 
 **Example code that can be copied:**
 
-{&#x20;
-
-"Collection Name": "Land Swafs",&#x20;
+{ "Collection Name": "Land Swafs",&#x20;
 
 "Description": "Party Swaf",&#x20;
 
@@ -59,9 +57,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 
 "Deso Logo": "No",&#x20;
 
-"Diamond": "No"&#x20;
-
-}
+"Diamond": "No" }
 
 
 
