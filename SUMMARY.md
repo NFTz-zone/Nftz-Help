@@ -37,6 +37,7 @@
   * [How to make a collection of your NFTs? \[Advanced\]](nft/selling-nft-intro/how-to-make-a-collection-of-your-nfts-advanced.md)
   * [How to add traits to your NFT by form? \[Expert\]](nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-form-expert.md)
   * [How to Add traits to your NFT by extradata? \[Expert\]](nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-extradata-expert.md)
+  * [Troubleshoot](nft/selling-nft-intro/troubleshoot.md)
 
 ## 🌈 Creator Zone
 
