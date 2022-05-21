@@ -4,7 +4,7 @@ Understanding the NFT market will make it easier for you as a buyer to find the 
 
 
 
-What happens after a NFT transaction:
+**What happens after a NFT transaction:**
 
 1. The owner can choose to not auction it and it will show listed as '**Not for sale**' on both the page of the creator of the NFT as the one who owns it. (remember you can always message the owner if you really want to buy it and make an offer;) &#x20;
 2. The owner chooses to put the NFT on sale **without a buy now** **price**.  You will see a green button with '**Make Offer**'. Its possible to make a bid for the minimum amount asked or higher. Sometimes you will also see bids by other people. Only when the owner accepts a bid by closing the auction the NFT will have been sold. There is no time limit for how much time the auction can be open. Remember you can also message the owner for what amount he/she will sell it. You can always make a higher bid if you really want it.  &#x20;
