@@ -57,7 +57,7 @@
 
 ## 🎮 3D/VR
 
-* [How do you mint / sell a 3D NFT? \[Advanced\]](3d-vr/how-do-you-mint-sell-a-3d-nft-advanced.md)
+* [How do you mint / sell a 3D NFT? \[Advanced\]](3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md)
 * [How do you navigate an NFT in 3D?](3d-vr/how-do-you-navigate-an-nft-in-3d.md)
 * [How do you navigate an NFT in VR?](3d-vr/how-do-you-navigate-an-nft-in-vr.md)
 

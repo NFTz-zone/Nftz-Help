@@ -1,6 +1,6 @@
 # How do you mint / sell an NFT?
 
-At this page you can learn how you mint an NFT. If you are interested in minting a 3D NFT you can press [here](../../3d-vr/how-do-you-mint-sell-a-3d-nft-advanced.md).&#x20;
+At this page you can learn how you mint an NFT. If you are interested in minting a 3D NFT you can press [here](../../3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md).&#x20;
 
 
 
