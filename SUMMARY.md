@@ -55,6 +55,12 @@
   * [How do you set an image banner at my personal page?](creator-zone/creator-zone-intro/how-do-you-set-an-image-banner-at-my-personal-page.md)
   * [How to set up analytics for your zone](creator-zone/creator-zone-intro/how-to-set-up-analytics-for-your-zone.md)
 
+## 🎮 3D/VR
+
+* [How do you mint / sell an 3D NFT? \[Advanced\]](3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md)
+* [How do you navigate an NFT in 3D?](3d-vr/how-do-you-navigate-an-nft-in-3d.md)
+* [How do you navigate an NFT in VR?](3d-vr/how-do-you-navigate-an-nft-in-vr.md)
+
 ## 🎨 NFT Artist
 
 * [How to become an NFT artist Intro](nft-artist/how-to-become-an-nft-artist-intro/README.md)
