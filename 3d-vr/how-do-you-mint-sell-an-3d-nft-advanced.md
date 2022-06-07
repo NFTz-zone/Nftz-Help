@@ -14,13 +14,11 @@ Minting an 3d NFT is now possible at NFTz! This page will help you how to mint a
 
 4\. Choose ‘**3D Enable 3D options’**
 
-5\. Choose Format ‘**GLB/gLTF’** or ‘**FBX**’ or ‘**OBJ**’ (Preferable gLTF)
+5\. At the “**Drag & Drop your 3D assets or browse**” section, choose the file type that you want to use for the NFT. Just drop the folder containing the assets. Even if it´s only one.
 
-6\. At the “**Drag & Drop your image or browse**” section, choose the file type that you want to use for the NFT.
+6\. Press ‘**Next – Prepare Assets’**
 
-7\. Press ‘**Next – Prepare Assets’**
-
-8\. Set the following things:
+7\. Set the following things:
 
 a.  Set your background, you can the fast colors ‘**black**’ or ‘**white**’ or press ‘**-**‘ to choose any color.
 
@@ -36,9 +34,11 @@ b. Press ‘**Capture Screenshot**’ if you want to show only 1 screenshot that
 
 c. Press **‘Use Existing’** if you to choose your own made .jpg/.png or video file. You can choose one of these files by choosing in the top right **‘Drag & Drop your image or Browse’** or ‘Drag & **Drop your video or Browse’**. A big advantage is that you can make a rendered photo or video from 3d software.
 
+10\. Press prepare zip file. This can take a while. After it´s done continue
+
 &#x20;
 
-10\. Fill in your desired attributes (if applicable).
+11\. Fill in your desired attributes (if applicable).
 
 _a. Amount of Copies (number of copies or editions you are minted of that one particular NFT)_
 
@@ -50,9 +50,9 @@ _d. Unlockable Content (any additional content you would like to provide to the 
 
 __
 
-11\. Fill in '**Min Bid'** the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]
+12\. Fill in '**Min Bid'** the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]
 
-12\. Press '**Mint Now'**
+13\. Press '**Mint Now'**
 
 Congratulations you have just minted an 3D NFT!
 
