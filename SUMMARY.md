@@ -54,6 +54,7 @@
   * [How to switch my app icon that other people can see?](creator-zone/creator-zone-intro/how-to-switch-my-app-icon-that-other-people-can-see.md)
   * [How do you set an image banner at my personal page?](creator-zone/creator-zone-intro/how-do-you-set-an-image-banner-at-my-personal-page.md)
   * [How to set up analytics for your zone](creator-zone/creator-zone-intro/how-to-set-up-analytics-for-your-zone.md)
+  * [Get all NFT owners](creator-zone/creator-zone-intro/get-all-nft-owners.md)
 
 ## 🎮 3D/VR
 
