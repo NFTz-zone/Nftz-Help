@@ -1,6 +1,14 @@
 # Get all NFT owners
 
-To get all NFT owners we have a special url that returns JSON. It´s updated each block sync.
+Click/Touch on top holders of any zone, Or add /holders to your zone url. There is also a menu option in each zone.
+
+[https://desomon.nftz.me/holders](https://desomon.nftz.me/holders)&#x20;
+
+or
+
+[https://nftz.me/u/desomon/holders](https://nftz.me/u/desomon/holders)
+
+To get all NFT  owners in data (json)  we have a special url that returns JSON. It´s updated each block sync.
 
 Use
 
