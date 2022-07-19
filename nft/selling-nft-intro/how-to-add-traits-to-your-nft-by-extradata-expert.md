@@ -9,7 +9,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 1. Make sure you are logged in.&#x20;
 2. Press **'='** on the top-left of your screen.&#x20;
 3. Choose **'New NFT'**.
-4. Click on ‘**Add extra / collection data**’ box
+4. Click on ‘**Add extra / collection data**’ box (on the mobile you might have to tilt your screen sidewards to see this button)
 5. &#x20;Use ‘**Json’** to use the ‘Extradata format’
 6. You can fill in the code. \[If you dont know how to do this; scroll down further on this page to see a example of code that can be used]
 7. Tip 1: if you fill in the code in Json and you press **'Form'** you can see how it will look like visual.&#x20;
