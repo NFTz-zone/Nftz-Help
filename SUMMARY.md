@@ -35,6 +35,7 @@
   * [How to close an NFT auction?](nft/selling-nft-intro/how-to-close-an-nft-auction.md)
   * [Unlockable content \[Advanced\]](nft/selling-nft-intro/unlockable-content-advanced.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)
+  * [How to use an Arweave link? \[Advanced\]](nft/selling-nft-intro/how-to-use-an-arweave-link-advanced.md)
   * [How to make a collection of your NFTs? \[Advanced\]](nft/selling-nft-intro/how-to-make-a-collection-of-your-nfts-advanced.md)
   * [How to add traits to your NFT by form? \[Expert\]](nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-form-expert.md)
   * [How to Add traits to your NFT by extradata? \[Expert\]](nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-extradata-expert.md)
