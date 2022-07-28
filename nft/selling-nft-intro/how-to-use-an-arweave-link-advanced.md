@@ -1,6 +1,6 @@
 # How to use an Arweave link? \[Advanced]
 
-Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. Some creators prefer to mint on Arweave. This page will help you with how you can use an arweave link.
+Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. Some creators prefer to mint on Arweave.  This page will explain how you can store your NFT image using an arweave link.
 
 1. On the top-left of your screen, press the '=' button. (after log in) &#x20;
 2. Choose '**New NFT'**.
