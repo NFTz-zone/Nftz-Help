@@ -16,7 +16,7 @@ For certain features on NFTz.zone you need to be logged in with a DeSo account. 
 
 **To login**
 
-1. Go to your username.nftz.zone
+1. Go to your username.nftz.me
 2. Press '**Login'** \[green button at top, right of the screen]
 3. Choose your name.
 
