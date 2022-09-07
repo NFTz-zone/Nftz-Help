@@ -1,6 +1,6 @@
 # How can I see the cheapest NFTs a creator has for sale?
 
-At NFTz there are multiple ways to sort a creator's NFTs. From our personal experience, the most used sorting choices,when browsing NFT that are forsale, are 'Low Min Bid Price and 'Low Buy Price'. Even though they sound very similar there are some differences. If you are interested in an NFT project, the best place to start is at that project's 'zone'. For example if you are interested in Desomon, you can visit desomon.nftz.zone.&#x20;
+At NFTz there are multiple ways to sort a creator's NFTs. From our personal experience, the most used sorting choices,when browsing NFT that are forsale, are 'Low Min Bid Price and 'Low Buy Price'. Even though they sound very similar there are some differences. If you are interested in an NFT project, the best place to start is at that project's 'zone'. For example if you are interested in Desomon, you can visit desomon.nftz.mr.&#x20;
 
 **Low Min Bid Price**
 

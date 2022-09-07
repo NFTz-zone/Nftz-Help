@@ -1,6 +1,6 @@
 # How can I see a collection of an NFT artist?
 
-1. Go to the zone (page) of the NFT artist. \[For example naderheads.nftz.zone]
+1. Go to the zone (page) of the NFT artist. \[For example naderheads.nftz.me]
 2. Press the **'spy glass'**&#x20;
 3. Click on **'All Collections**' and choose the collection \[For example NaderHeads Genesis Series]
 

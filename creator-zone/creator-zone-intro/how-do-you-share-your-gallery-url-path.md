@@ -4,7 +4,7 @@
 
 2\. Choose your gallery on the personal page.
 
-3\. Copy the URL of the gallery. (for example: naderheads.nftz.zone/g/Genesis-Series)
+3\. Copy the URL of the gallery. (for example: naderheads.nftz.me/g/Genesis-Series)
 
 4\. Paste it where you want to share it.
 

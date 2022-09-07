@@ -1,10 +1,10 @@
 # How do you share your personal page?
 
-If you know your username it's really easy. It's simply \[your username]nftz.zone&#x20;
+If you know your username it's really easy. It's simply \[your username]nftz.me&#x20;
 
 So, if your username is '@BadassBaboons':
 
-You can share on other social media by using the URL line  ' badassbaboons.nftz.zone '
+You can share on other social media by using the URL line  ' badassbaboons.nftz.me '
 
 Other users know where to go to then. &#x20;
 

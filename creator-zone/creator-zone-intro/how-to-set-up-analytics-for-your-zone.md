@@ -10,7 +10,7 @@ NFTz allows you to use Google Analytics to track traffic and interactions within
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-4\) Enter "Property name" (e.g. my nftz zone). Click "next"
+4\) Enter "Property name" (e.g. my nftz me). Click "next"
 
 ![](<../../.gitbook/assets/image (5).png>)
 
@@ -30,7 +30,7 @@ NFTz allows you to use Google Analytics to track traffic and interactions within
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-10\) Click on "Settings" on NFTz.zone (after you are logged in).  Then input your "Measurement ID" under "zone analytics" and click on "save."
+10\) Click on "Settings" on NFTz.me (after you are logged in).  Then input your "Measurement ID" under "zone analytics" and click on "save."
 
 ![](<../../.gitbook/assets/image (1).png>)
 

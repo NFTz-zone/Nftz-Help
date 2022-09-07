@@ -2,7 +2,7 @@
 
 Are you ready to start minting your very first NFT? Are you ready to start calling yourself an NFT artist? Then lets take the next step together!
 
-1. Go to your \[username].nft.zone
+1. Go to your \[username].nft.me
 2. Log in into your account
 3. Press '**New NFT**' at the bottom of the screen
 4. Upload your image by either: a) dragging or dropping the **.jpg/.png/.gif** into the mentioned screen or b) Press '**Browse'** and search for the **.jpg/.png./.gif**&#x20;

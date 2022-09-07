@@ -1,6 +1,6 @@
 # How do you make a gallery on your personal page?
 
-On NFTz.zone its possible to make your own galleries. This is very handy if you collect multiple NFTs and you want to show them seperately for each artist. You can have a Cloutpunk gallery and a Rowdy Reptilians gallery, etc. Creators that are interested in buying can see the NFTs which you own very easily. Its also possible to share the URL to a particular user-created gallery on social media by going to [How do you share galleries?](how-do-you-make-a-url-path-of-your-gallery-to-share-with-others.md)
+On NFTz.me its possible to make your own galleries. This is very handy if you collect multiple NFTs and you want to show them seperately for each artist. You can have a Cloutpunk gallery and a Rowdy Reptilians gallery, etc. Creators that are interested in buying can see the NFTs which you own very easily. Its also possible to share the URL to a particular user-created gallery on social media by going to [How do you share galleries?](how-do-you-make-a-url-path-of-your-gallery-to-share-with-others.md)
 
 
 

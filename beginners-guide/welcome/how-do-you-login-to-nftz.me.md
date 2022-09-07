@@ -1,6 +1,6 @@
-# How do you login to NFTz.zone?
+# How do you login to NFTz.me?
 
-For certain features on NFTz.zone you need to be logged in with a DeSo account. This includes:&#x20;
+For certain features on NFTz.me you need to be logged in with a DeSo account. This includes:&#x20;
 
 1. [Buying an NFT](../../nft/buying-nft-intro/how-to-buy-an-nft.md)
 2. [Selling an NFT](../../nft/selling-nft-intro/)&#x20;
@@ -22,4 +22,4 @@ For certain features on NFTz.zone you need to be logged in with a DeSo account. 
 
 {% file src="../../.gitbook/assets/Login Android.mp4" %}
 
-<mark style="color:green;">Coming Soon: You will be able to create a DeSo account directly on NFTz.Zone</mark>
+<mark style="color:green;">Coming Soon: You will be able to create a DeSo account directly on NFTz.me</mark>

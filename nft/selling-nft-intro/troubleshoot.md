@@ -7,7 +7,7 @@ Help, I have followed the steps of minting or cant setup an account but I still 
 **Error message**
 
 1. Logout
-2. Go to [https://nftz.zone/clear](https://nftz.zone/clear)
+2. Go to [https://nftz.me/clear](https://nftz.zone/clear)
 3. Login again
 
 Relogging or using the link that is mentioned above will usually solve most problems. If you keep getting error messages, dont hestitate to contact us at our socials. If this doesnt work the following things can be the problem. &#x20;

@@ -12,7 +12,7 @@ To get all NFT  owners in data (json)  we have a special url that returns JSON. 
 
 Use
 
-[https://backend.nftz.zone/api/creator/allowners?username=Desomon](https://backend.nftz.zone/api/creator/allowners?username=Desomon)
+[https://backend.nftz.me/api/creator/allowners?username=Desomon](https://backend.nftz.zone/api/creator/allowners?username=Desomon)
 
 Where username = your deso username.
 

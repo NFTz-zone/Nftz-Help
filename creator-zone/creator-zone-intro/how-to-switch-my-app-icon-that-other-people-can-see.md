@@ -1,6 +1,6 @@
 # How to switch my app icon that other people can see?
 
-1. Go to your personal page at nftz.zone.
+1. Go to your personal page at nftz.me.
 2. Click '**=**' on the top-left of your screen.
 3. Go to '**Settings**'.&#x20;
 4. **Drag & Drop**' your image or choose **Browse**'.  (preferable an 1024x1024 image)

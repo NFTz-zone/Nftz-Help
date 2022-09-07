@@ -10,7 +10,7 @@
   * [How to handle Seed Phrases](beginners-guide/welcome/how-to-handle-seed-phrases.md)
   * [What is an NFT?](beginners-guide/welcome/what-is-an-nft.md)
   * [What are the costs of using NFTz?](beginners-guide/welcome/what-are-the-costs-of-using-nftz.md)
-  * [How do you login to NFTz.zone?](beginners-guide/welcome/how-do-you-login-to-nftz.zone.md)
+  * [How do you login to NFTz.me?](beginners-guide/welcome/how-do-you-login-to-nftz.me.md)
   * [How do you make a Deso Identity?](beginners-guide/welcome/how-do-you-make-a-deso-identity.md)
   * [Teach me everything!](beginners-guide/welcome/teach-me-everything.md)
 

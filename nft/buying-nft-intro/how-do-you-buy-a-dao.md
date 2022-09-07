@@ -2,7 +2,7 @@
 
 DAO's are one of the most popular things happening in crypto right now. A DAO stands for **D**ecentralised **A**utonomous **O**rganization. On the Deso blockchain DAO's will launch at **May 2022**.&#x20;
 
-At the moment the coreteam of DeSo has made multiple DAODAO NFT's so people can enter the DAO market. Its possible to buy a DAO NFT at: [https://daodao.nftz.zone/](https://daodao.nftz.zone/)
+At the moment the coreteam of DeSo has made multiple DAODAO NFT's so people can enter the DAO market. Its possible to buy a DAO NFT at: [https://daodao.nftz.me/](https://daodao.nftz.zone/)
 
 There are 4 different DAO NFTs being sold at the moment:
 
