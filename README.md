@@ -4,7 +4,7 @@ coverY: 0
 
 # Welcome
 
-![](<.gitbook/assets/Logo\_blackgrey 4000x2000.png>)
+![](.gitbook/assets/NFTz3Dlogo2000\_572transparant.png)
 
 **Welcome to NFTz Zone!**&#x20;
 
