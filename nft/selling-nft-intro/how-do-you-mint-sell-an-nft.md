@@ -1,32 +1,19 @@
 # How do you mint / sell an NFT?
 
-At this page you can learn how you mint an NFT. If you are interested in minting a 3D NFT you can press [here](../../3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md).&#x20;
+At this page we learn how you mint an NFT.
 
 
 
 **Mint an NFT:**
 
-1\. On the top-left of your screen, press the '=' button. (after log in) &#x20;
-
-2\. Choose '**New NFT'**.
-
-3\. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
-
-4\. At the “**Drag & Drop your image or browse**” section, choose the JPG/PNG/GIF that you want to use for the NFT.
-
-5\. Fill in your desired attributes (if applicable).&#x20;
-
-_a. Amount of Copies (number of copies or editions you are minted of that one particular NFT)_      &#x20;
-
-_b. Creator Royalty (the royalties you would like to receive upon the resales of your NFT)._        &#x20;
-
-_c. Coin Holder Royalty (the royalties you would like your coin-holders to receive. Leave this at 0% if you are unsure)._   &#x20;
-
-_d. Unlockable Content (any additional content you would like to provide to the buyer(s) of your NFT once it's purchased)._&#x20;
-
-6\. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]           &#x20;
-
-7\. Press '**Mint Now'**
+1. &#x20;[Log in](../../beginners-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
+2. Go to the top-right on your screen and press the '**=**' button and choose '**New NFT**'. (If you own a PC you can also Press **'Mint'** on the top screen.)
+3. Choose **Image**/**Video/**[**3D**](../../3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md)****
+4. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)
+5. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
+6. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
+7. [Royalties](royalties.md) are default on 10% creator Royalty and 5% Coin Holder Royalty. \[If you are not sure what to do with royalties we advise leaving at the default numbers]   &#x20;
+8. Press 'Mint Now'
 
 Congratulations you have just minted an NFT! :thumbsup:
 
@@ -36,27 +23,30 @@ Congratulations you have just minted an NFT! :thumbsup:
 
 If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
+
+
 <details>
 
 <summary>Extra Options (for experienced creators)</summary>
 
-#### \[Extra 1: for experienced creators] Unlockable Content
+#### \[Extra 1: Additional Royalties]
 
-To add unlockable content to your NFT, you can use the following steps:
+It's possible to give other creators a royalty % on each sell of a NFT. There is no maximum of creators that can be added.&#x20;
 
-1\.     Click '**Mint on NFT'**
+1. Choose 'Deso Wallet' or 'Creator Coin' (Deso Wallet goes straight to the wallet of the creator. If you choose Creator Coin; the royalty will be used to buy an invisible amount creator Coin of that creator. This will drive the price up of their creator coin.&#x20;
+2. Choose the % you want to give. The minimum is 0.01%.
+3. Choose the creator you want to give royalty and press **'Add'**
 
-2\.     Check **'Unlockable Content'**
+#### \[Extra 2:  More options (advanced and collection] NFT Category and Copies
 
-3\.     Mint the NFT and put it on sale
-
-The moment someone has put in a bid and you want to accept it you can add in the unlockable content.
-
+* You can change the NFT Category by Pressing 'Art'. The default is Art.&#x20;
+* You can change the amount of copies by pressing right of **'Copies'**. The default is '1'
 
 
-**\[Extra 2: for experienced creators] Add extra / collection data**
 
-To know more about this feature; go directly to [Traits by Extradata](broken-reference).&#x20;
+**\[Extra 3: More options (advanced and collection] Add extra / collection data**
+
+To know more about this feature; go directly to [Traits by Extradata](how-to-add-traits-to-your-nft-by-form-expert.md)
 
 </details>
 

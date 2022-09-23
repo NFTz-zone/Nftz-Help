@@ -32,6 +32,12 @@ If node.deso.org goes down This one is beyond your control. If the node goes dow
 
 
 
+Can't Find the Mint Button
+
+The mint button is only avalailable on the PC.&#x20;
+
+
+
 Feel free to go to our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
 
