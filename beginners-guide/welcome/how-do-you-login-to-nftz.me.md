@@ -17,9 +17,9 @@ For certain features on NFTz.me you need to be logged in with a DeSo account. Th
 **To login**
 
 1. Go to your username.nftz.me
-2. Press '**Login'** \[green button at top, right of the screen]
+2. Press '**Connect'** \[green button at top, right of the screen]
 3. Choose your name.
 
-{% file src="../../.gitbook/assets/Login Android.mp4" %}
+{% file src="../../.gitbook/assets/Log in Android.mp4" %}
 
 <mark style="color:green;">Coming Soon: You will be able to create a DeSo account directly on NFTz.me</mark>
