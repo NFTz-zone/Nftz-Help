@@ -14,7 +14,7 @@ Minting a 3D NFT is now possible at NFTz. This page will help you learn how. If 
 
 4\. Choose ‘**Enable 3D options’.**
 
-5\. Choose Format: ‘**GLB/gLTF’** or ‘**FBX**’ or ‘**OBJ**’ (Preferable gLTF)
+5\. Choose Format: ‘**GLB/gLTF’** or ‘**FBX**’ or ‘**OBJ**’ "**VRM**' (Preferable gLTF)
 
 **\[File types have to be written without any spaces between the letters; else the 3D file will not work]**
 
@@ -63,8 +63,6 @@ __
 Congratulations you have just minted a 3D NFT!
 
 &#x20;
-
-
 
 **If It doesn't work:**
 
