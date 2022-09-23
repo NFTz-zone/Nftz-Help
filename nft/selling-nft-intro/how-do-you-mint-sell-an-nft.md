@@ -60,10 +60,10 @@ Currently you can choose:
 
 </details>
 
-{% file src="../../.gitbook/assets/Minting an NFT.mp4" %}
-Minting an NFT
+{% file src="../../.gitbook/assets/Video How to Mint.mp4" %}
+Minting an NFT on Mobile
 {% endfile %}
 
-<figure><img src="../../.gitbook/assets/Mint Page 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mint Page 1 (1).jpg" alt=""><figcaption><p>1/2</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Mint Page 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mint Page 2.jpg" alt=""><figcaption><p>2/2</p></figcaption></figure>
