@@ -11,9 +11,9 @@
   * [What is an NFT?](beginners-guide/welcome/what-is-an-nft.md)
   * [What are the costs of using NFTz?](beginners-guide/welcome/what-are-the-costs-of-using-nftz.md)
   * [How do you login to NFTz.me?](beginners-guide/welcome/how-do-you-login-to-nftz.me.md)
-  * [How do you make a metamask identity?](beginners-guide/welcome/how-do-you-make-a-metamask-identity.md)
   * [How do you make a Deso Identity?](beginners-guide/welcome/how-do-you-make-a-deso-identity.md)
   * [Teach me everything!](beginners-guide/welcome/teach-me-everything.md)
+  * [How do you make a metamask identity?](beginners-guide/welcome/how-do-you-make-a-metamask-identity.md)
 
 ## 👼 NFT
 
@@ -25,7 +25,6 @@
   * [How do I cancel a bid?](nft/buying-nft-intro/how-do-i-cancel-a-bid.md)
   * [How can I see a collection of an NFT artist?](nft/buying-nft-intro/how-can-i-see-a-collection-of-an-nft-artist.md)
   * [How can I see the rarity scores of a collection?](nft/buying-nft-intro/how-can-i-see-the-rarity-scores-of-a-collection.md)
-  * [How do you buy a DAO?](nft/buying-nft-intro/how-do-you-buy-a-dao.md)
 * [Selling NFT Intro](nft/selling-nft-intro/README.md)
   * [Minting](nft/selling-nft-intro/minting.md)
   * [Royalties](nft/selling-nft-intro/royalties.md)

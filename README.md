@@ -36,10 +36,6 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 
 
-**Expert:**
-
-[I want to enter an DAO.](nft/buying-nft-intro/how-do-you-buy-a-dao.md)
-
 
 
 **Watch our feature video below:**
