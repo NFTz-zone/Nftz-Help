@@ -7,7 +7,7 @@ At this page we learn how you mint an NFT.
 **Mint an NFT:**
 
 1. &#x20;[Log in](../../beginners-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
-2. Go to the top-right on your screen and press the '**=**' button and choose '**New NFT**'. (If you own a PC you can also Press **'Mint'** on the top screen.)
+2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
 3. Choose **Image**/**Video/**[**3D**](../../3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md)****
 4. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)
 5. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
@@ -23,13 +23,11 @@ Congratulations you have just minted an NFT! :thumbsup:
 
 If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-
-
 <details>
 
 <summary>Extra Options (for experienced creators)</summary>
 
-#### \[Extra 1: Additional Royalties]
+\[Extra 1: Additional Royalties]
 
 It's possible to give other creators a royalty % on each sell of a NFT. There is no maximum of creators that can be added.&#x20;
 
@@ -48,10 +46,24 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 
 To know more about this feature; go directly to [Traits by Extradata](how-to-add-traits-to-your-nft-by-form-expert.md)
 
+
+
+**\[Extra 4: Image Storage] Changing Image Storage**
+
+In the begin screen of the mint page underneath 'Image Storage' it's possible to change the place where you store your image.&#x20;
+
+Currently you can choose:
+
+1. **'Deso'**
+2. **'IPFS'**
+3. **'Arweave'** (For Arweave you need a URL Link)&#x20;
+
 </details>
 
 {% file src="../../.gitbook/assets/Minting an NFT.mp4" %}
 Minting an NFT
 {% endfile %}
 
-![](../../.gitbook/assets/Mint.jpg)
+<figure><img src="../../.gitbook/assets/Mint Page 1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mint Page 2.jpg" alt=""><figcaption></figcaption></figure>
