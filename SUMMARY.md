@@ -34,7 +34,6 @@
   * [How to burn an NFT?](nft/selling-nft-intro/how-to-burn-an-nft.md)
   * [How to hide an NFT?](nft/selling-nft-intro/how-to-hide-an-nft.md)
   * [How to close an NFT auction?](nft/selling-nft-intro/how-to-close-an-nft-auction.md)
-  * [Unlockable content \[Advanced\]](nft/selling-nft-intro/unlockable-content-advanced.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)
   * [How to store an image on IPFS Piñata? \[Advanced\]](nft/selling-nft-intro/how-to-store-an-image-on-ipfs-pinata-advanced.md)
   * [How to use an Arweave link? \[Advanced\]](nft/selling-nft-intro/how-to-use-an-arweave-link-advanced.md)

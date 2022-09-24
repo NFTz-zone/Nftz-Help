@@ -14,4 +14,4 @@ Android
 PC
 {% endfile %}
 
-![](<../../.gitbook/assets/Remove from Sale (2).jpg>)
+<figure><img src="../../.gitbook/assets/Remove from Sale (3).jpg" alt=""><figcaption></figcaption></figure>

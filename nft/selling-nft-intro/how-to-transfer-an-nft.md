@@ -12,4 +12,4 @@
 
 {% file src="../../.gitbook/assets/How to transfer.mp4" %}
 
-![](<../../.gitbook/assets/Transfer (2).jpg>)
+<figure><img src="../../.gitbook/assets/Transfer.jpg" alt=""><figcaption></figcaption></figure>
