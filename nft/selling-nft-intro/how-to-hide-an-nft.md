@@ -1,11 +1,12 @@
 # How to hide an NFT?
 
-Hiding an NFT is not the same as burning an NFT.  However, if you burn an NFT, the post will still remain, so you may also want to hide it.
+Hiding an NFT is not the same as burning an NFT.  However, if you burn an NFT, the post will still remain, so you may also want to hide it. The NFT will only hide on NFTz and not the other nodes.&#x20;
 
 1. Make sure you are logged In.
-2. Click the corresponding NFT.&#x20;
-3. Select the action '**Hide on NFTz**'
-4. Click '**Hide NFT**'&#x20;
+2. Click the corresponding NFT.
+3. Press the '<mark style="color:purple;">**\~Options**</mark>' button. (At a mobile you have to first press '**Details**')
+4. Choose the '**Hide on NFTz**' option.&#x20;
+5. Click '**Hide NFT**'&#x20;
 
 {% file src="../../.gitbook/assets/Hide an NFT.mp4" %}
 

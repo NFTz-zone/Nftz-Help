@@ -2,9 +2,9 @@
 
 1. Make sure you are logged in on your page.
 2. Click on the NFT you want to transfer.
-3. Press the '**\~Options**' button.
+3. Press the '<mark style="color:purple;">**\~Options**</mark>' button. (At a mobile you have to first press '**Details**')
 4. Select the '**selected Serial Number #1**' \[This is only important if you own multiple NFT’s of the same]
-5. Select action is '**Transfer**' \[It’s by default]
+5. Choose the '**Transfer**' option \[It’s by default]
 6. Find the user you want to transfer to.
 7. Press '**Transfer Now**'.
 

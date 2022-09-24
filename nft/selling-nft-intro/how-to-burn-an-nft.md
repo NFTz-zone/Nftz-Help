@@ -6,15 +6,15 @@
 
 3\. Click on the NFT you want to burn.
 
-3\. Click the orange '**\~Burn/Transfer**' button.
+4\. Press the '<mark style="color:purple;">**\~Options**</mark>' button. (At a mobile you have to first press '**Details**')
 
-4\. Select the '**selected Serial Number #1'** \[Only important if you own multiple NFT’s of the same]
+5\. Choose the  '**Burn**' option.
 
-5\. Select action is '**Burn'**
+6\. Select the '**selected Serial Number #1'** \[Only important if you own multiple NFT’s of the same]
 
-6\. Click '**Are you Sure? Press to continue**'
+7\. Click '**Are you Sure? Press to continue**'
 
-7\. Click **'Burn Serial # now**'
+8\. Click **'Burn Serial # now**'
 
 {% file src="../../.gitbook/assets/Burning an NFT.mp4" %}
 
