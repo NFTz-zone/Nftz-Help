@@ -32,9 +32,24 @@ If node.deso.org goes down This one is beyond your control. If the node goes dow
 
 
 
-Can't Find the Mint Button
+**Can't Find the Mint Button**
 
 The mint button is only avalailable on the PC.&#x20;
+
+
+
+**3D NFT not showing 3D button**
+
+These can be caused by 2 currently known issues:
+
+My 3D NFT only shows an image or video but no 3D button.
+
+1. The Next-Prep for Mint' button hasnt been pressed after adding an image when the 3D file has been uploaded.&#x20;
+2. File types have to be written without any spaces between the letters; else the 3D file will not work in 3D mode. Example '3D NFT.GLB' wont work but '3DNFT.GLB' will work.&#x20;
+
+
+
+
 
 
 

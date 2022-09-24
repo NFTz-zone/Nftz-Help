@@ -6,7 +6,7 @@ Minting a 3D NFT is now possible at NFTz. This page will help you learn how. If 
 
 **Minting a 3D NFT:**
 
-1\. On the top-left of your screen, press the '**=**' button. (after logged in
+1\. On the top-left of your screen, press the '**=**' button. (after logged in)
 
 2\. Choose '**Mint'**.
 
