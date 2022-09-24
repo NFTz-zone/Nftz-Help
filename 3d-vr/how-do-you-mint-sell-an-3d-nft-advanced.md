@@ -100,3 +100,11 @@ Congratulations you have just minted a 3D NFT!
 **If It doesn't work:**
 
 If you keep getting errors, you can go to our [troubleshoot section](../nft/selling-nft-intro/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
+
+
+
+<figure><img src="../.gitbook/assets/Mint 3d Page 1.jpg" alt=""><figcaption><p>1/3</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Mint 3d page 2.jpg" alt=""><figcaption><p>2/3</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/mint 3d page 3.jpg" alt=""><figcaption><p>3/3</p></figcaption></figure>
