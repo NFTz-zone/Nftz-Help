@@ -16,6 +16,12 @@ When you are minting an NFT, you sometimes want to give royalties to other creat
 8. Choose **'Add**'
 9. Mint the NFT. ([How do you mint /sell an NFT?](how-do-you-mint-sell-an-nft.md))
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 {% file src="../../.gitbook/assets/How to set royalties.mp4" %}
 
 ![](<../../.gitbook/assets/Additional Royalties.jpg>)

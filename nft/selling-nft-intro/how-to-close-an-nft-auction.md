@@ -6,6 +6,12 @@
 4. Select the '**selected Serial Number #1'** \[Only important if you own multiple NFT’s of the same]
 5. Click the action '**Remove from Sale**'&#x20;
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 {% file src="../../.gitbook/assets/How to close an auction Android.mp4" %}
 Android
 {% endfile %}

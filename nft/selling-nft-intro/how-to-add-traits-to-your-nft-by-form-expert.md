@@ -14,6 +14,12 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 6. Press '**Add +'** to include the traits.
 7. Mint the NFT.&#x20;
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 **Traits by Form**
 
 ![Traits by Form](<../../.gitbook/assets/TraitsbyForm \[Picture].png>)

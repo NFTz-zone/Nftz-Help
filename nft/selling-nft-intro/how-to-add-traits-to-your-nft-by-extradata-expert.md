@@ -84,3 +84,9 @@ With BadAssBaboons
 **Using the default description box**
 
 Note that we recommend to always put information about the NFT into the default description box. This is to ensure that nodes that don't show Extradata have at least the basic details of an NFT.
+
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;

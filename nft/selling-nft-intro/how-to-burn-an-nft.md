@@ -16,6 +16,12 @@
 
 8\. Click **'Burn Serial # now**'
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 {% file src="../../.gitbook/assets/Burning an NFT.mp4" %}
 
 <figure><img src="../../.gitbook/assets/Burn.jpg" alt=""><figcaption></figcaption></figure>

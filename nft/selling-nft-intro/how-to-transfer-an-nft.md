@@ -10,6 +10,12 @@
 
 **If you need to remove the NFT serial from sale first you can go to** [How to close an NFT action?](how-to-close-an-nft-auction.md)
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 {% file src="../../.gitbook/assets/How to transfer.mp4" %}
 
 <figure><img src="../../.gitbook/assets/Transfer.jpg" alt=""><figcaption></figcaption></figure>

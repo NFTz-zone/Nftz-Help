@@ -10,6 +10,12 @@ Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. So
 4. Switch to **'IPFS Piñata'**.
 5. Mint the NFT on NFTz. If you have problems with minting the NFT you can also click [here](how-do-you-mint-sell-an-nft.md).
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 ![](<../../.gitbook/assets/IPFS Pinata.jpg>)
 
 

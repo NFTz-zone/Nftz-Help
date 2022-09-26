@@ -12,6 +12,12 @@ At NFTz you can make a collection of your NFTs. This is important if you want to
 6. Write down the number and name in the '**Collection Edition**'  (For example #001 - First NFT)
 7. Mint the NFT.&#x20;
 
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
 ![](<../../.gitbook/assets/TraitsbyForm \[Picture] (2).png>)
 
 
