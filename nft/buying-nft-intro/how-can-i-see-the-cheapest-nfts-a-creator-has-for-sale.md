@@ -20,4 +20,4 @@ This function sorts in order of **the lowest buy now price for all of a creator'
 
 {% file src="../../.gitbook/assets/Sorting Low price.mp4" %}
 
-![](<../../.gitbook/assets/Picture Low min Price.jpg>)
+<figure><img src="../../.gitbook/assets/Low Min Price.jpg" alt=""><figcaption></figcaption></figure>
