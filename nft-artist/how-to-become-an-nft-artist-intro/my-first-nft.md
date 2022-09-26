@@ -4,11 +4,12 @@ Are you ready to start minting your very first NFT? Are you ready to start calli
 
 1. Go to your \[username].nft.me
 2. Log in into your account
-3. Press '**New NFT**' at the bottom of the screen
-4. Upload your image by either: a) dragging or dropping the **.jpg/.png/.gif** into the mentioned screen or b) Press '**Browse'** and search for the **.jpg/.png./.gif**&#x20;
-5. Fill in the text at '**text for your NFT**' . This will be shown above the picture. For example; if you type in '#001 NFT'  Above the picture you will see #001 NFT. Think of it as naming your NFT.&#x20;
-6. Change the minimum bid price to the desired NFT price. (If you don't know how much to fill in we advise between 0.01 and 0.1 deso for beginners. If its really a high quality piece you can fill in a higher number.)&#x20;
-7. Press '**Mint NFT**' .
+3. Press '**=**' in the top right screen.&#x20;
+4. Press '**Mint**' at the bottom of the screen
+5. Upload your image by either: a) dragging or dropping the **.jpg/.png/.gif** into the mentioned screen or b) Press '**Browse'** and search for the **.jpg/.png./.gif**&#x20;
+6. Fill in the text at '**text for your NFT**' . This will be shown above the picture. For example; if you type in '#001 NFT'  Above the picture you will see #001 NFT. Think of it as naming your NFT.&#x20;
+7. Change the minimum bid price to the desired NFT price. (If you don't know how much to fill in we advise between 0.01 and 0.1 deso for beginners. If its really a high quality piece you can fill in a higher number.)&#x20;
+8. Press <mark style="color:green;">'</mark><mark style="color:green;">**Mint Now**</mark>' .
 
 
 

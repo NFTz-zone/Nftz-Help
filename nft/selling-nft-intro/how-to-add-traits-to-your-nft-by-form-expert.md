@@ -12,7 +12,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 4. Click on ‘**Add extra / collection data**’ box (on the mobile you might have to tilt your screen sidewards to see this button)
 5. Use ‘**Form**’ to insert data by hand
 6. Press '**Add +'** to include the traits.
-7. Mint the NFT.&#x20;
+7. [Mint](how-do-you-mint-sell-an-nft.md) the NFT.&#x20;
 
 
 

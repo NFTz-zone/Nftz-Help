@@ -9,4 +9,4 @@
 
 {% file src="../../.gitbook/assets/Tutorial #1 setting up a featured page.gif" %}
 
-![](<../../.gitbook/assets/Making a Gallery.jpg>)
+<figure><img src="../../.gitbook/assets/Gallery.jpg" alt=""><figcaption></figcaption></figure>

@@ -15,7 +15,7 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 7. Tip 1: if you fill in the code in Json and you press **'Form'** you can see how it will look like visual.&#x20;
 8. Tip 2: if you see Json NO, the code is incorrect. You should see '**Json OK'**.&#x20;
 9. Tip 3: Json is case - and space sensitive. This is important to know; to prevent 'double' traits to  appear. Like '**B**ackground' and '**b**ackground'.&#x20;
-10. Mint the NFT.&#x20;
+10. [Mint](how-do-you-mint-sell-an-nft.md) the NFT.&#x20;
 
 ****
 

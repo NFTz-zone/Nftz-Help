@@ -6,21 +6,25 @@ Minting a 3D NFT is now possible at NFTz. This page will help you learn how. If 
 
 **Minting a 3D NFT:**
 
-1\. On the top-left of your screen, press the '**=**' button. (after logged in)
+1\. On the top-right of your screen, press the '**=**' button. (after logged in)
 
 2\. Choose '**Mint'**.
 
 3\. Switch to **'3D'** underneath NFT Type.&#x20;
 
-4\. At the “**Drag & Drop your 3D files or browse**” section, choose the file type that you want to use for the NFT. Just drop the folder containing the assets. Even if it´s only one. (We currently support **.OBJ, .FBX, .VRM, .GLB/.gLTF to a maximum of 100 MB**)&#x20;
+4\. At the “**Drag & Drop your 3D files or browse**” section, choose the file type that you want to use for the NFT. Just drop the folder containing the assets. Even if it´s only one.&#x20;
 
-\[File types have to be written without any spaces between the letters; else the 3D file will not work in 3D mode]
+(We currently support **.OBJ, .FBX, .VRM, .GLB/.gLTF to a maximum of 100 MB**)  (File types have to be written without any spaces between the letters; else the 3D file will not work in 3D mode)
 
 5\. Press **'Next- Prepare Assets'.**&#x20;
 
+6\. If you have an image already, you can go straight to **Step 8**.&#x20;
 
+7\. Expand the window underneath for capture GIF/Screenshot.
 
-6\. You can go straight to <mark style="color:green;">**Step**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**7c**</mark> if you have an image or video already, else follow the steps below:
+<details>
+
+<summary>Capture GIF/Screenshot</summary>
 
 _Set the following attributes:_
 
@@ -34,21 +38,25 @@ _a. Press **‘Capture Rotating Gif’** if you want to make an automatic turnin
 
 _b. Press ‘**Capture Screenshot**’ if you want to show only 1 screenshot that does not move._
 
-<mark style="color:green;">c. Press</mark> <mark style="color:green;"></mark><mark style="color:green;">**‘Use Existing’**</mark> <mark style="color:green;"></mark><mark style="color:green;">if you want to choose your own custom-made .jpg/.png or video file. You can choose one of these files by selecting (at the top right)</mark> <mark style="color:green;"></mark><mark style="color:green;">**‘Drag & Drop your image or Browse’**</mark> <mark style="color:green;"></mark><mark style="color:green;">or ‘</mark><mark style="color:green;">**Drag &**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**Drop your video or Browse’**</mark><mark style="color:green;">. A big advantage is that you can make a rendered photo or video from 3d software.</mark>
+</details>
 
-<mark style="color:green;"></mark>
 
-8\. Press '**Next-Prep for Mint**'&#x20;
 
-9\. Fill in your desired text in the '**Text for your NFT'** field. **** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
+8\. Press **‘Use Existing’**.
 
-10\. Fill in '**Min Bid',** the desired amount of Deso you want; **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]
+9\. Choose **‘Drag & Drop your image or Browse’** (a custom-made JPG/PNG/GIF can be chosen)
 
-11\. Set the [creator royalty](../nft/selling-nft-intro/royalties.md) and [coinholder royalty](../nft/selling-nft-intro/royalties.md).&#x20;
+9\. Press '**Next-Prep for Mint**'&#x20;
 
-12\. Set [Additional Royalties](../nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md).&#x20;
+10\. Fill in your desired text in the '**Text for your NFT'** field. **** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
 
-12\. Set More options (advanced and collection).
+11\. Fill in '**Min Bid',** the desired amount of Deso you want; **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]
+
+12\. Set the [creator royalty](../nft/selling-nft-intro/royalties.md) and [coinholder royalty](../nft/selling-nft-intro/royalties.md).&#x20;
+
+13\. Set [Additional Royalties](../nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md).&#x20;
+
+14\. Set More options (advanced and collection).
 
 <details>
 
@@ -89,19 +97,15 @@ Currently you can choose:
 
 
 
-13\. <mark style="color:red;">Double check everything! Especially if you have pressed 'Next - Prep for Mint'</mark>. (Else you will not be able to see the NFT in 3D)&#x20;
+15\. <mark style="color:green;">Double check everything! Especially if you have pressed 'Next - Prep for Mint'</mark>.&#x20;
 
-14\. Press '**Mint Now'**
+16\. Press '<mark style="color:green;">**Mint Now**</mark>**'.** Congratulations you have just minted a 3D NFT!
 
-Congratulations you have just minted a 3D NFT!
 
-&#x20;
 
 **If It doesn't work:**
 
 If you keep getting errors, you can go to our [troubleshoot section](../nft/selling-nft-intro/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
-
-
 
 <figure><img src="../.gitbook/assets/Mint 3d Page 1.jpg" alt=""><figcaption><p>1/3</p></figcaption></figure>
 
