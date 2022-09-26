@@ -2,12 +2,11 @@
 
 Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. Some creators prefer to mint on Arweave.  This page will explain how you can store your NFT image using an arweave link.
 
-1. On the top-left of your screen, press the '=' button. (after log in) &#x20;
-2. Choose '**New NFT'**.
-3. Click on **'Deso Google'** at the line of Store image on.
-4. Switch to **'Arweave Link'**.
-5. Underneath 'Arweave link reference' you can type in the adress where you stored your NFT.  \[If you don't have stored your NFT on Arweave; you can follow this link and follow the steps on this site: [https://www.arweave.org/](https://www.arweave.org/)
-6. Mint the NFT on NFTz. \[If you have problems with minting the NFT you can also click [here](how-do-you-mint-sell-an-nft.md).
+1. On the top-right of your screen, press the '=' button. (after log in) &#x20;
+2. Choose '**Mint'**.
+3. Choose **'Arweave'** underneath Image storage.
+4. Underneath 'Arweave link reference' you can type in the adress where you stored your NFT.  \[If you don't have stored your NFT on Arweave; you can follow this link and follow the steps on this site: [https://www.arweave.org/](https://www.arweave.org/)
+5. [Mint](how-do-you-mint-sell-an-nft.md) the NFT.
 
 
 

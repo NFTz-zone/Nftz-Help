@@ -2,7 +2,7 @@
 
 1. Make sure you are logged in.
 2. Click the corresponding NFT.
-3. Click the '**\~Options**'  button. (At a mobile you have to first press '**Details**')
+3. Click the '<mark style="color:purple;">**\~Options**</mark>'  button. (At a mobile you have to first press '**Details**')
 4. Select the '**selected Serial Number #1'** \[Only important if you own multiple NFT’s of the same]
 5. Click the action '**Remove from Sale**'&#x20;
 

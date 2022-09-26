@@ -7,8 +7,8 @@ Some NFT projects have traits to create more value and a way to differentiate ea
 **How to add traits to an NFT by Form**
 
 1. Make sure you are logged in.&#x20;
-2. Press **'='** on the top-left of your screen.&#x20;
-3. Choose **'New NFT'**.
+2. Press **'='** on the top-right of your screen.&#x20;
+3. Choose **'Mint'**.
 4. Click on ‘**Add extra / collection data**’ box (on the mobile you might have to tilt your screen sidewards to see this button)
 5. Use ‘**Form**’ to insert data by hand
 6. Press '**Add +'** to include the traits.

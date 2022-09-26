@@ -4,11 +4,10 @@ Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. So
 
 
 
-1. On the top-left of your screen, press the '=' button. (after log in) &#x20;
-2. Choose '**New NFT'**.
-3. Click on **'Deso Google'** at the line of Store image on.
-4. Switch to **'IPFS Piñata'**.
-5. Mint the NFT on NFTz. If you have problems with minting the NFT you can also click [here](how-do-you-mint-sell-an-nft.md).
+1. On the top-right of your screen, press the '=' button. (after log in) &#x20;
+2. Choose '**Mint'**.
+3. Switch to **'IPFS'** underneath Image Storage.
+4. [Mint](how-do-you-mint-sell-an-nft.md) the NFT.&#x20;
 
 
 

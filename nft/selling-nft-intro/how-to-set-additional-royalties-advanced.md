@@ -8,10 +8,10 @@ When you are minting an NFT, you sometimes want to give royalties to other creat
 
 1. Make sure you are logged in.
 2. Go to your own page.
-3. Click the **'='** symbol on the top-left of the page.&#x20;
-4. Choose **'New NFT'**.
-5. Under **** 'Add additional royalties' **** choose **'DeSo Wallet'** (all royalties will go to the deso cryptowallet) or **'Creator Coin'** (all royalties will go the creator coin of the creator).&#x20;
-6. Set the % of the royalty.&#x20;
+3. Click the **'='** symbol on the top-right of the page. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
+4. Choose **'Mint'**.
+5. Click on '**Additional royalties**' **** choose **'**[**DeSo Wallet**](royalties.md)**'** (all royalties will go to the deso cryptowallet) or **'**[**Creator Coin**](royalties.md)**'** (all royalties will go the creator coin of the creator).&#x20;
+6. Set the % of the royalty. You can set as low as a minimum of 0.01%
 7. Find the creator who you want to give the royalty.
 8. Choose **'Add**'
 9. Mint the NFT. ([How do you mint /sell an NFT?](how-do-you-mint-sell-an-nft.md))
@@ -24,4 +24,4 @@ If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or 
 
 {% file src="../../.gitbook/assets/How to set royalties.mp4" %}
 
-<figure><img src="../../.gitbook/assets/Additional Royalties (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Additional Royalties.jpg" alt=""><figcaption></figcaption></figure>

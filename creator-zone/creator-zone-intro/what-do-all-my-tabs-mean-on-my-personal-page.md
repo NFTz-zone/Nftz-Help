@@ -30,7 +30,7 @@ All the NFT's that you currently own on the DeSo blockchain.
 
 &#x20;
 
-**Secondary Market**
+**Secondary**
 
 All NFT's bought at least once and are currently open for bidding or 'buy now' again on the DeSo blockchain.
 
@@ -39,6 +39,12 @@ All NFT's bought at least once and are currently open for bidding or 'buy now' a
 **Sort By**
 
 Here you can sort your NFTs by different fields such as 'most recent' or 'Low buy Price'
+
+
+
+**Post**
+
+You can see all posts by this creator that has been posted on the Deso blockchain.&#x20;
 
 
 
