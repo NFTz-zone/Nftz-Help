@@ -1,8 +1,8 @@
 # How do you make a URL path of your gallery? \[to share with others]
 
-1\. Press **'='** on the top-left of your screen.
+1\. Press **'='** on the top-right of your screen. After Log in.
 
-2\. Choose “**Manage Galleries**'.
+2\. Choose “**Galleries**'.
 
 3\. Click '**Manage gallery**'.
 

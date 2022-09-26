@@ -4,8 +4,8 @@ On NFTz it's possible to gift other creators NFTs. The creator that receives the
 
 1. Make sure you are logged in.
 2. Press on your profile picture on the top right.
-3. Click on **'Open Transfers'**
-4. Choose accept or reject for each corresponding NFT.&#x20;
+3. Click on **'Transfers'**
+4. Choose 'accept' or 'reject' for each corresponding NFT.&#x20;
 
 {% file src="../../.gitbook/assets/Accept Transfer.mp4" %}
 

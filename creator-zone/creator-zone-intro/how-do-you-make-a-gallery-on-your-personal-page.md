@@ -6,13 +6,13 @@ On NFTz.me its possible to make your own galleries. This is very handy if you co
 
 1\. Log in with your account.
 
-2\. Press **'='** in the top-left corner of your screen.
+2\. Press **'='** in the top-right corner of your screen.
 
-3\. Choose '**Manage Galleries**'.
+3\. Choose '**Galleries**'.
 
-4\. Click '**Manage gallery**'.
+4\. Click '**Featured**' on 'Manage gallery'.
 
-5\. Choose '**New…**' by manage gallery
+5\. Choose '**New…**'&#x20;
 
 6\. Change the Gallery Name to the name you want. \[For example: Cloutpunk]
 

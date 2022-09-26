@@ -2,7 +2,7 @@
 
 1. Make sure you are logged in.
 2. Go to your personal page.
-3. Press in the top left screen **'='**.
+3. Press in the top-right screen **'='**.
 4. Choose **'Settings'**.
 5. Drag your image (jpg/png) to **Background Header**.
 6. Press the **'upload symbol'** in the topright of the uploaded symbol.
