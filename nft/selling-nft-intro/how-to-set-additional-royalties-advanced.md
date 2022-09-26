@@ -24,4 +24,4 @@ If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or 
 
 {% file src="../../.gitbook/assets/How to set royalties.mp4" %}
 
-![](<../../.gitbook/assets/Additional Royalties.jpg>)
+<figure><img src="../../.gitbook/assets/Additional Royalties (1).jpg" alt=""><figcaption></figcaption></figure>

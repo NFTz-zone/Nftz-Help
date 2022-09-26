@@ -16,7 +16,7 @@ Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. So
 
 If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-![](<../../.gitbook/assets/IPFS Pinata.jpg>)
+<figure><img src="../../.gitbook/assets/Image Storage IPFS.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
