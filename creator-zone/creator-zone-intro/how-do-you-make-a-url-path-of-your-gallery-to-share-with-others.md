@@ -14,6 +14,6 @@
 
 7\. Choose the gallery URL Path. \[For example: Naderheads]
 
-8\.  When you're finished click '**save changes**'.
+8\.  When you're finished click '**save**'.
 
 ![](<../../.gitbook/assets/Making a Gallery 2.jpg>)
