@@ -1,5 +1,9 @@
 # What do all my Tabs mean on my personal page?
 
+At your mobile phone its possible to swipe the tabs from left to right.&#x20;
+
+****
+
 **Featured**
 
 Your own page where you decide what to show.
