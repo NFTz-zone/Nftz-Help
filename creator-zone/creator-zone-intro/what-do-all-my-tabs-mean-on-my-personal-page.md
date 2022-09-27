@@ -1,6 +1,6 @@
 # What do all my Tabs mean on my personal page?
 
-At your mobile phone its possible to swipe the tabs from left to right.&#x20;
+At your mobile phone its possible to swipe the tabs from left to right. At your PC it will be shown full screen.
 
 ****
 
@@ -52,7 +52,7 @@ You can see all posts by this creator that has been posted on the Deso blockchai
 
 
 
-![](<../../.gitbook/assets/Meaning of the Tabs.jpg>)
+<figure><img src="../../.gitbook/assets/Tabs GIF.gif" alt=""><figcaption></figcaption></figure>
 
 
 
