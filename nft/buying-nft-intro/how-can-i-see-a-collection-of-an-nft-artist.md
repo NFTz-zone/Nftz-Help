@@ -10,4 +10,4 @@
 
 {% file src="../../.gitbook/assets/Showing a collection.mp4" %}
 
-![](../../.gitbook/assets/Collection.jpg)
+<figure><img src="../../.gitbook/assets/Collections.jpg" alt=""><figcaption></figcaption></figure>
