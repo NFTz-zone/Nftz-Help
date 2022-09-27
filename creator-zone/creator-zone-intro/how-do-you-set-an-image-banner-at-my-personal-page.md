@@ -10,4 +10,4 @@
 
 {% file src="../../.gitbook/assets/How to set a banner (1).mp4" %}
 
-![](<../../.gitbook/assets/Rainbow banner (2).jpg>)
+<figure><img src="../../.gitbook/assets/Banner.jpg" alt=""><figcaption></figcaption></figure>

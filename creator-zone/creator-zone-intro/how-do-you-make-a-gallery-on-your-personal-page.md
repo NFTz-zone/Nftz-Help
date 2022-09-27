@@ -20,4 +20,4 @@ On NFTz.me its possible to make your own galleries. This is very handy if you co
 
 8\.  When you're finished press '**save changes**'.
 
-![](<../../.gitbook/assets/Making a Gallery 2 (1).jpg>)
+<figure><img src="../../.gitbook/assets/Making a Gallery.jpg" alt=""><figcaption></figcaption></figure>

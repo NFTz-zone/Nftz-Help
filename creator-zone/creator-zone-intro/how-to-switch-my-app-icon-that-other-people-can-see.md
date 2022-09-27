@@ -8,4 +8,4 @@
 
 {% file src="../../.gitbook/assets/Changing App icon.mp4" %}
 
-![](<../../.gitbook/assets/Changing App Icon.jpg>)
+<figure><img src="../../.gitbook/assets/App Icon 3.jpg" alt=""><figcaption></figcaption></figure>

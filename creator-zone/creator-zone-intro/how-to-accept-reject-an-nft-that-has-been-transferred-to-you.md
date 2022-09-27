@@ -9,4 +9,4 @@ On NFTz it's possible to gift other creators NFTs. The creator that receives the
 
 {% file src="../../.gitbook/assets/Accept Transfer.mp4" %}
 
-![](<../../.gitbook/assets/accept or reject.jpg>)
+<figure><img src="../../.gitbook/assets/Accept Transfer.jpg" alt=""><figcaption></figcaption></figure>

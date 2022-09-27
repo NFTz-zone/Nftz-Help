@@ -8,12 +8,12 @@
 
 4\. Choose '**New…**' (or find the gallery if you already created it)
 
-5\. Change the gallery name to the name you want. \[For example: NaderHeads]
+5\. Change the gallery name to the name you want. \[For example: AgentX]
 
 6\. Choose the NFT’s you want to show in your gallery. \[They show on right and become green]
 
-7\. Choose the gallery URL Path. \[For example: Naderheads]
+7\. Choose the gallery URL Path. \[For example: AgentX]
 
 8\.  When you're finished click '**save**'.
 
-![](<../../.gitbook/assets/Making a Gallery 2.jpg>)
+<figure><img src="../../.gitbook/assets/URL Path.jpg" alt=""><figcaption></figcaption></figure>
