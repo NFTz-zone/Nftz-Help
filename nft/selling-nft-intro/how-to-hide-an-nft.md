@@ -12,8 +12,8 @@ Hiding an NFT is not the same as burning an NFT.  However, if you burn an NFT, t
 
 **It doesnt work:**
 
-If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-{% file src="../../.gitbook/assets/Hide an NFT.mp4" %}
+{% file src="../../.gitbook/assets/Hide.mp4" %}
 
 <figure><img src="../../.gitbook/assets/Hide on NFTz.jpg" alt=""><figcaption></figcaption></figure>

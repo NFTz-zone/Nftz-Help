@@ -12,7 +12,7 @@ Every NFT that is being minted on NFTz is automatically set on 'Deso Google'. So
 
 **It doesnt work:**
 
-If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
 <figure><img src="../../.gitbook/assets/Image Storage Arweave.jpg" alt=""><figcaption></figcaption></figure>
 

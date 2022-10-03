@@ -14,9 +14,19 @@ Relogging or using the link that is mentioned above will usually solve most prob
 
 
 
+****
+
+
+
 **Not enough $Deso**
 
-To make posts and make a mint you need a very tiny amount of Deso. Make sure you have $Deso in your wallet on your acount. If you have made posts in the past we might help with sending a diamond.&#x20;
+To make posts and make a mint you need a very tiny amount of Deso. Make sure you have $Deso in your wallet on your acount. If you have made posts in the past we might help with sending a diamond. This can also trigger error 400.&#x20;
+
+
+
+**Error: Request failed with status code 400**
+
+This error can cause multiple things. If you want to mint a NFT you can receive this error. This means you don't have enough Deso in your wallet to activate the mint. Also you can receive this error when you want to accept a bid. This actually means that the bidder doesn't have enough funds. This error can be removed if funds are being added to the wallet.&#x20;
 
 
 
@@ -32,9 +42,9 @@ If node.deso.org goes down This one is beyond your control. If the node goes dow
 
 
 
-**Can't Find the Mint Button**
+**Can't Find the Mint Button on the mainscreen**
 
-The mint button is only avalailable on the PC.&#x20;
+The mint button is only avalailable on the PC. At mobile phones the mint button is behind the hamburger menu in the top right corner.
 
 
 
@@ -52,6 +62,12 @@ My 3D NFT only shows an image or video but no 3D button.
 **I can't find the Unlockable Content feature**
 
 This feature was almost never used and confuses new users, so we decided to remove it to make it an easier experience. There is a workaround. It's still possible to send a direct message to a buyer of an NFT and send a file through mail or use a dropbox.&#x20;
+
+
+
+
+
+
 
 
 

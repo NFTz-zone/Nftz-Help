@@ -20,8 +20,8 @@ When you are minting an NFT, you sometimes want to give royalties to other creat
 
 **It doesnt work:**
 
-If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-{% file src="../../.gitbook/assets/How to set royalties.mp4" %}
+{% file src="../../.gitbook/assets/Additional Royalties.mp4" %}
 
 <figure><img src="../../.gitbook/assets/Additional Royalties.jpg" alt=""><figcaption></figcaption></figure>

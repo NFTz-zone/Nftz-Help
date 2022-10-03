@@ -12,6 +12,8 @@
 
 **It doesnt work:**
 
-If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+
+{% file src="../../.gitbook/assets/Put on Sale (1).mp4" %}
 
 <figure><img src="../../.gitbook/assets/Put on Sale.jpg" alt=""><figcaption></figcaption></figure>

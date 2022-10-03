@@ -14,8 +14,8 @@
 
 **It doesnt work:**
 
-If you keep getting errors you can go to our [troubleshoot](troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-{% file src="../../.gitbook/assets/How to transfer.mp4" %}
+{% file src="../../.gitbook/assets/Transfer.mp4" %}
 
 <figure><img src="../../.gitbook/assets/Transfer.jpg" alt=""><figcaption></figcaption></figure>

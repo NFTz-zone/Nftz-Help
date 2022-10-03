@@ -32,7 +32,7 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 [I'm interested in Creator Zones.](creator-zone/creator-zone-intro/)
 
-[I want to learn the meaning of every word used on Deso. ](lexicon/lexicon-intro.md)
+[I want to learn the meaning of every word used on Deso. ](troubleshoot/lexicon-intro.md)
 
 
 

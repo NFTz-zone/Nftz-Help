@@ -105,7 +105,9 @@ Currently you can choose:
 
 **If It doesn't work:**
 
-If you keep getting errors, you can go to our [troubleshoot section](../nft/selling-nft-intro/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
+If you keep getting errors, you can go to our [troubleshoot section](../troubleshoot/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
+
+{% file src="../.gitbook/assets/Video How to Mint 3D.mp4" %}
 
 <figure><img src="../.gitbook/assets/Mint 3d Page 1.jpg" alt=""><figcaption><p>1/3</p></figcaption></figure>
 
