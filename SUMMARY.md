@@ -35,6 +35,7 @@
   * [How to hide an NFT?](nft/selling-nft-intro/how-to-hide-an-nft.md)
   * [How to close an NFT auction?](nft/selling-nft-intro/how-to-close-an-nft-auction.md)
   * [How to reopen an NFT auction?](nft/selling-nft-intro/how-to-reopen-an-nft-auction.md)
+  * [How do you make a timed auction?](nft/selling-nft-intro/how-do-you-make-a-timed-auction.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)
   * [How to store an image on IPFS Piñata? \[Advanced\]](nft/selling-nft-intro/how-to-store-an-image-on-ipfs-pinata-advanced.md)
   * [How to use an Arweave link? \[Advanced\]](nft/selling-nft-intro/how-to-use-an-arweave-link-advanced.md)
@@ -55,7 +56,8 @@
   * [How to set an app icon at my homescreen?](creator-zone/creator-zone-intro/how-to-set-an-app-icon-at-my-homescreen.md)
   * [How to switch my app icon that other people can see?](creator-zone/creator-zone-intro/how-to-switch-my-app-icon-that-other-people-can-see.md)
   * [How do you set an image banner at my personal page?](creator-zone/creator-zone-intro/how-do-you-set-an-image-banner-at-my-personal-page.md)
-  * [How to set up analytics for your zone](creator-zone/creator-zone-intro/how-to-set-up-analytics-for-your-zone.md)
+  * [How do I add my emailadres?](creator-zone/creator-zone-intro/how-do-i-add-my-emailadres.md)
+  * [How to set up analytics for your zone?](creator-zone/creator-zone-intro/how-to-set-up-analytics-for-your-zone.md)
   * [Show all current NFT owners](creator-zone/creator-zone-intro/show-all-current-nft-owners.md)
 
 ## 🎮 3D/VR
