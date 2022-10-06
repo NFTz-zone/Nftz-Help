@@ -1,7 +1,3 @@
----
-description: '[Under construction]'
----
-
 # How do you make a timed auction?
 
 At NFTz it's possible to make a timed NFT auction. You can set the length of the auction and when the time is finished the following can happen:
