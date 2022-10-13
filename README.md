@@ -40,10 +40,10 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 **Watch our feature video below:**
 
-{% embed url="https://www.youtube.com/watch?t=3s&v=VASh7UMFH48" %}
+{% embed url="https://www.youtube.com/watch?v=9eEieDcxCOc" %}
+
+****
 
 [I have a question: Bring me in contact with NFTz.](contact-socials/contact-social-intro/)
-
-
 
 &#x20;
