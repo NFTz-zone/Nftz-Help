@@ -14,7 +14,9 @@ Relogging or using the link that is mentioned above will usually solve most prob
 
 
 
-****
+**Stuck on loading**&#x20;
+
+Sometimes when uploading an image or doing an action like transfer or burn the load icon keeps on loading. The first thing to do is to see if a logout and login resolves the issue. If this doesnt work its good to try to use https://nftz.me/clear after been logout. If the issue keeps existing, it might be related with the browser. We notice that the Brave browser has a pretty strong firewall that prevents certain actions from NFTz. Turning off the firewall of Brave might resolve the issue.&#x20;
 
 
 
