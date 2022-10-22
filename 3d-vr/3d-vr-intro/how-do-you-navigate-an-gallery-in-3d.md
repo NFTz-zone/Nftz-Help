@@ -15,3 +15,16 @@ You can enter a 3d gallery by going to the 3D Space gallery.&#x20;
 
 * By **holding the left mouse button** you can adjust the view .
 * By **clicking with the left mouse button** you can move around.&#x20;
+
+
+
+**Movement in 3D (with keyboard)**
+
+1. Move around with **w**,**a**,**s**,**d**:
+
+* **W**= Front
+* **A**= Back
+* **S**= Left
+* **D**= Right
+
+2\. Press '**spacebar'** to jump.&#x20;
