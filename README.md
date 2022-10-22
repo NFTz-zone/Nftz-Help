@@ -10,7 +10,7 @@ coverY: 0
 
 
 
-We are really happy to have you here. We know that the whole NFT market, as well as the DeSo blockchain, can be very overwhelming at times. This can especially be true if this is your first time to an NFT marketplace. This is one of the reasons we have created NFTz — to make buying and selling NFTs as easy as possible. Additionally, if you are a new user to DeSo, we will guide you through understanding the innovative blockchain and cryptocurrency. DeSo and NFTz are closely connected to each other since the social aspects and the NFTs on NFTz reside on the DeSo blockchain.  Because of this, pretty much everything that happens on DeSo also happens on NFTz, and any comments, posts, or NFTs minted on NFTz, are minted on the DeSo blockchain.
+We are really happy to have you here. We know that the whole NFT market, as well as DeSo, can be very overwhelming at times. This can especially be true if this is your first time to an NFT marketplace. This is one of the reasons we have created NFTz — to make buying and selling NFTs as easy as possible. Also if you're a new user to DeSo, we will guide you through understanding the innovative blockchain and cryptocurrency. DeSo and NFTz are closely connected to each other since we use the same blockchain.  Because of this, pretty much everything that happens on Deso also happens on NFTz and visa versa.
 
 We have created the Beginner's Guide to get started. You can look at each question, page by page, or go directly to the corresponding question by clicking the topics underneath:
 
@@ -38,7 +38,7 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 
 
-**Watch NFTz walkthrough video below:**
+**Watch our feature video below:**
 
 {% embed url="https://www.youtube.com/watch?v=9eEieDcxCOc" %}
 
