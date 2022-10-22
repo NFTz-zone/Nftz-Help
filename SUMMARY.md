@@ -64,9 +64,12 @@
 
 ## 🎮 3D/VR
 
-* [How do you mint / sell a 3D NFT? \[Advanced\]](3d-vr/how-do-you-mint-sell-an-3d-nft-advanced.md)
-* [How do you navigate an NFT in 3D?](3d-vr/how-do-you-navigate-an-nft-in-3d.md)
-* [How do you navigate an NFT in VR?](3d-vr/how-do-you-navigate-an-nft-in-vr.md)
+* [3D/VR Intro](3d-vr/3d-vr-intro/README.md)
+  * [How do you mint / sell a 3D NFT? \[Advanced\]](3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)
+  * [How do you enter a 3D gallery?](3d-vr/3d-vr-intro/how-do-you-enter-a-3d-gallery.md)
+  * [How do you navigate an Gallery in 3D?](3d-vr/3d-vr-intro/how-do-you-navigate-an-gallery-in-3d.md)
+  * [How do you navigate an NFT in 3D?](3d-vr/3d-vr-intro/how-do-you-navigate-an-nft-in-3d.md)
+  * [How do you navigate an NFT in VR?](3d-vr/3d-vr-intro/how-do-you-navigate-an-nft-in-vr.md)
 
 ## 🎨 NFT Artist
 

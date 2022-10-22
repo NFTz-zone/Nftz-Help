@@ -1,6 +1,6 @@
 # How do you mint / sell a 3D NFT? \[Advanced]
 
-Minting a 3D NFT is now possible at NFTz. This page will help you learn how. If you are interested in minting a regular NFT (.jpg/.png/.mp4) you can press[ here](../nft/selling-nft-intro/how-do-you-mint-sell-an-nft.md).&#x20;
+Minting a 3D NFT is now possible at NFTz. This page will help you learn how. If you are interested in minting a regular NFT (.jpg/.png/.mp4) you can press[ here](../../nft/selling-nft-intro/how-do-you-mint-sell-an-nft.md).&#x20;
 
 
 
@@ -52,9 +52,9 @@ _b. Press ‘**Capture Screenshot**’ if you want to show only 1 screenshot tha
 
 11\. Fill in '**Min Bid',** the desired amount of Deso you want; **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]
 
-12\. Set the [creator royalty](../nft/selling-nft-intro/royalties.md) and [coinholder royalty](../nft/selling-nft-intro/royalties.md).&#x20;
+12\. Set the [creator royalty](../../nft/selling-nft-intro/royalties.md) and [coinholder royalty](../../nft/selling-nft-intro/royalties.md).&#x20;
 
-13\. Set [Additional Royalties](../nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md).&#x20;
+13\. Set [Additional Royalties](../../nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md).&#x20;
 
 14\. Set More options (advanced and collection).
 
@@ -79,7 +79,7 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 
 **\[Extra 3: More options (advanced and collection] Add extra / collection data**
 
-To know more about this feature; go directly to [Traits by Extradata](../nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-form-expert.md)
+To know more about this feature; go directly to [Traits by Extradata](../../nft/selling-nft-intro/how-to-add-traits-to-your-nft-by-form-expert.md)
 
 
 
@@ -105,12 +105,12 @@ Currently you can choose:
 
 **If It doesn't work:**
 
-If you keep getting errors, you can go to our [troubleshoot section](../troubleshoot/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
+If you keep getting errors, you can go to our [troubleshoot section](../../troubleshoot/troubleshoot.md) or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).
 
-{% file src="../.gitbook/assets/Video How to Mint 3D.mp4" %}
+{% file src="../../.gitbook/assets/Video How to Mint 3D.mp4" %}
 
-<figure><img src="../.gitbook/assets/Mint 3d Page 1.jpg" alt=""><figcaption><p>1/3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mint 3d Page 1.jpg" alt=""><figcaption><p>1/3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Mint 3d page 2.jpg" alt=""><figcaption><p>2/3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mint 3d page 2.jpg" alt=""><figcaption><p>2/3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/mint 3d page 3.jpg" alt=""><figcaption><p>3/3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mint 3d page 3.jpg" alt=""><figcaption><p>3/3</p></figcaption></figure>
