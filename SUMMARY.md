@@ -68,6 +68,7 @@
   * [How do you mint / sell a 3D NFT? \[Advanced\]](3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)
   * [How do you enter a 3D gallery?](3d-vr/3d-vr-intro/how-do-you-enter-a-3d-gallery.md)
   * [How do you navigate an Gallery in 3D?](3d-vr/3d-vr-intro/how-do-you-navigate-an-gallery-in-3d.md)
+  * [How do I give likes and diamonds in 3D?](3d-vr/3d-vr-intro/how-do-i-give-likes-and-diamonds-in-3d.md)
   * [How do you navigate an NFT in 3D?](3d-vr/3d-vr-intro/how-do-you-navigate-an-nft-in-3d.md)
   * [How do you navigate an NFT in VR?](3d-vr/3d-vr-intro/how-do-you-navigate-an-nft-in-vr.md)
 
