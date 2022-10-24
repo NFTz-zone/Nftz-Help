@@ -4,4 +4,4 @@ At NFTz we have extensive options for 3D and VR. We can show a whole gallery in 
 
 
 
-{% embed url="https://youtu.be/KmKMr3Cw2qs" %}
+{% embed url="https://www.youtube.com/watch?v=x4YmGWCtRF4" %}
