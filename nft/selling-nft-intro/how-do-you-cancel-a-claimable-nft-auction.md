@@ -1,6 +1,6 @@
 # How do you cancel a claimable NFT auction?
 
-It's possible at NFTz to cancel a claimable NFT auction. This can be useful if you would prefer to sell certain NFTs. It's also possible to only [update the claimable NFT auction and keep it ongoing](how-do-you-update-a-claimable-nft-auction.md). You can also [start a new claimable NFT auction](how-do-you-create-a-claimable-free-nft.md).&#x20;
+It's possible at NFTz to cancel a claimable NFT auction. This can be useful if you would prefer to sell certain NFTs. It's also possible to only [update the claimable NFT auction and keep it ongoing](how-do-you-update-a-claimable-nft.md). You can also [start a new claimable NFT auction](how-do-you-create-a-claimable-free-nft.md).&#x20;
 
 
 

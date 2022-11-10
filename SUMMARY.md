@@ -41,7 +41,7 @@
   * [How do you cancel a timed auction?](nft/selling-nft-intro/how-do-you-cancel-a-timed-auction.md)
   * [How do you cancel a claimable NFT auction?](nft/selling-nft-intro/how-do-you-cancel-a-claimable-nft-auction.md)
   * [How do you update a timed auction?](nft/selling-nft-intro/how-do-you-update-a-timed-auction.md)
-  * [How do you update a claimable NFT auction?](nft/selling-nft-intro/how-do-you-update-a-claimable-nft-auction.md)
+  * [How do you update a claimable NFT?](nft/selling-nft-intro/how-do-you-update-a-claimable-nft.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)
   * [How to store an image on IPFS Piñata? \[Advanced\]](nft/selling-nft-intro/how-to-store-an-image-on-ipfs-pinata-advanced.md)
   * [How to use an Arweave link? \[Advanced\]](nft/selling-nft-intro/how-to-use-an-arweave-link-advanced.md)
