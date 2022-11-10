@@ -1,8 +1,6 @@
 # How do you create a claimable free NFT?
 
-At NFTz it's possible to create a claimable free NFT that will automatically go to the user if they fulfill the set requirements. This saves the creator a lot of time in not having to transfer the NFTs manually if giving away a large number of NFTs. If you are interested in transferring an NFT manually to another user, click on [transfer](how-to-transfer-an-nft.md).&#x20;
-
-
+At NFTz it's possible to create a claimable free NFT that will automatically be transferred to the user if they fulfill a set requirements. This saves the creator a lot of time in not having to transfer the NFTs manually, especially if giving away a large number of NFTs. If you are interested in transferring an NFT manually to another user, click on [transfer](how-to-transfer-an-nft.md).&#x20;
 
 **Create a claimable NFT:**&#x20;
 
@@ -12,7 +10,7 @@ At NFTz it's possible to create a claimable free NFT that will automatically go 
 4. Choose '**Start / Update Claim Action**'. (Set an email address if you haven't set one yet and verify it).
 5. Press '**get derived key**'
 6. Choose '**Approve**'
-7. Set the preferred conditions for users to claim NFT:
+7. Set your preferred conditions in order for users to claim the NFT:
 
 * User must follow you
 * User must repost NFT
