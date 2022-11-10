@@ -39,6 +39,7 @@
   * [How to reopen an NFT auction?](nft/selling-nft-intro/how-to-reopen-an-nft-auction.md)
   * [How do you make a timed auction?](nft/selling-nft-intro/how-do-you-make-a-timed-auction.md)
   * [How do you cancel a timed auction?](nft/selling-nft-intro/how-do-you-cancel-a-timed-auction.md)
+  * [How do you cancel a claimable NFT auction?](nft/selling-nft-intro/how-do-you-cancel-a-claimable-nft-auction.md)
   * [How do you update a timed auction?](nft/selling-nft-intro/how-do-you-update-a-timed-auction.md)
   * [How do you update a claimable NFT auction?](nft/selling-nft-intro/how-do-you-update-a-claimable-nft-auction.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)

@@ -25,4 +25,4 @@ If you questions or are getting errors you can go to our [troubleshoot](../../tr
 
 
 
-<figure><img src="../../.gitbook/assets/Update Auction.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Update Auction (2).jpg" alt=""><figcaption></figcaption></figure>

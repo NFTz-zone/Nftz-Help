@@ -29,9 +29,9 @@ You can also choose to leave them all off.
 
 Remember you need to have multiple serial NFT or else you get the message 'Claim action is only available for NFTs with at least 1 copy / stock / serial and you must be the creator.'  When you [mint](how-do-you-mint-sell-an-nft.md) an NFT remember to set multiple copies underneath the **'more options (advanced and collection**)'. If you have minted an NFT with multiple serials you can create a claimable NFT.&#x20;
 
+
+
 If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
-
-
 
 <figure><img src="../../.gitbook/assets/Screenshot_20221110-143056_Chrome.jpg" alt=""><figcaption><p>Choose Options</p></figcaption></figure>
 
