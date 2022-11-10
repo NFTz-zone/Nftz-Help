@@ -7,7 +7,7 @@ At NFTz it's possible to create a claimable free NFT that will automatically go 
 **Create a claimable NFT**&#x20;
 
 1. Make sure you are logged in.
-2. Go to the corresponding NFT (multiple serials)  or [mint](how-do-you-mint-sell-an-nft.md) a new NFT (multiple serials).
+2. Go to the corresponding NFT (multiple serials) or [mint](how-do-you-mint-sell-an-nft.md) a new NFT: **multiple serials** and with **put on sale turned off**.
 3. Click on <mark style="color:purple;">\~Options</mark>. (on a mobile phone go to '**Details**' first)
 4. Choose '**Start / Update Claim Action**'. (Set a emailadres if you haven't set one yet and verify it)
 5. Press '**get derived key**'
