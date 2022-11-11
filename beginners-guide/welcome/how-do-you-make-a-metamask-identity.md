@@ -6,7 +6,7 @@ With the implimentation of Metamask it's possible to use Deso with just your met
 
 **Make a Deso MetaMask account**
 
-1. Go to **** [**https://desocialworld.com/**](https://desocialworld.com/)****
+1. Go to **https://nftz.me**
 2. Click on **'Create Account'**
 3. Choose **'Sign up / log in with MetaMask'**
 4. Press **'Connect'**

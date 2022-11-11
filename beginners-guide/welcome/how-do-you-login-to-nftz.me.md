@@ -6,13 +6,9 @@ For certain features on NFTz.me you need to be logged in with a DeSo account. Th
 2. [Selling an NFT](../../nft/selling-nft-intro/)&#x20;
 3. Customizing your own [creator zone](../../creator-zone/creator-zone-intro/)
 
-#### Make sure you have an account by following this link:
-
-{% embed url="https://desocialworld.com" %}
+####
 
 [CLICK HERE IF YOU WANT TO LEARN HOW TO CREATE AN ACCOUNT](how-do-you-make-a-deso-identity.md)
-
-<mark style="color:green;"></mark>
 
 **To login**
 
