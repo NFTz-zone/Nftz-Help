@@ -25,7 +25,7 @@ At NFTz it's possible to claim free NFTs.&#x20;
 
 If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
-
+{% embed url="https://www.youtube.com/watch?v=c19w-4LEuUE" %}
 
 {% file src="../../.gitbook/assets/Screen_Recording_20221110-134307_Chrome_1 (1).mp4" %}
 
