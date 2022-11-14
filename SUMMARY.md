@@ -1,19 +1,19 @@
 # Table of contents
 
-## ❓ Beginners Guide
+## ❓ Users Guide
 
 * [Welcome](README.md)
-  * [What is NFTz?](beginners-guide/welcome/what-is-nftz.md)
-  * [What is the DeSo Blockchain?](beginners-guide/welcome/what-is-the-deso-blockchain.md)
-  * [What is the DeSo Cryptocurrency?](beginners-guide/welcome/what-is-the-deso-cryptocurrency.md)
-  * [What are diamonds?](beginners-guide/welcome/what-are-diamonds.md)
-  * [How to handle Seed Phrases](beginners-guide/welcome/how-to-handle-seed-phrases.md)
-  * [What is an NFT?](beginners-guide/welcome/what-is-an-nft.md)
-  * [What are the costs of using NFTz?](beginners-guide/welcome/what-are-the-costs-of-using-nftz.md)
-  * [How do you login to NFTz.me?](beginners-guide/welcome/how-do-you-login-to-nftz.me.md)
-  * [How do you make a metamask identity?](beginners-guide/welcome/how-do-you-make-a-metamask-identity.md)
-  * [How do you make a Deso Identity?](beginners-guide/welcome/how-do-you-make-a-deso-identity.md)
-  * [Teach me everything!](beginners-guide/welcome/teach-me-everything.md)
+  * [What is NFTz?](users-guide/welcome/what-is-nftz.md)
+  * [What is the DeSo Blockchain?](users-guide/welcome/what-is-the-deso-blockchain.md)
+  * [What is the DeSo Cryptocurrency?](users-guide/welcome/what-is-the-deso-cryptocurrency.md)
+  * [What are diamonds?](users-guide/welcome/what-are-diamonds.md)
+  * [How to handle Seed Phrases](users-guide/welcome/how-to-handle-seed-phrases.md)
+  * [What is an NFT?](users-guide/welcome/what-is-an-nft.md)
+  * [What are the costs of using NFTz?](users-guide/welcome/what-are-the-costs-of-using-nftz.md)
+  * [How do you login to NFTz.me?](users-guide/welcome/how-do-you-login-to-nftz.me.md)
+  * [How do you make a metamask identity?](users-guide/welcome/how-do-you-make-a-metamask-identity.md)
+  * [How do you make a Deso Identity?](users-guide/welcome/how-do-you-make-a-deso-identity.md)
+  * [Teach me everything!](users-guide/welcome/teach-me-everything.md)
 
 ## 👼 NFT
 

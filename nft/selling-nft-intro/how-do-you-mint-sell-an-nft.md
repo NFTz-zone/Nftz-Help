@@ -6,7 +6,7 @@ At this page we learn how you mint an NFT.
 
 **Mint an NFT:**
 
-1. &#x20;[Log in](../../beginners-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
+1. &#x20;[Log in](../../users-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
 2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
 3. Choose **Image**/**Video/**[**3D**](../../3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)****
 4. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)

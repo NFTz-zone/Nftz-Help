@@ -18,7 +18,7 @@ We have created the Beginner's Guide to get started. You can look at each questi
 
 **Beginner:**
 
-[Help! I'm a new user on DeSo. Can you explain everything to me?](beginners-guide/welcome/what-is-the-deso-blockchain.md)&#x20;
+[Help! I'm a new user on DeSo. Can you explain everything to me?](users-guide/welcome/what-is-the-deso-blockchain.md)&#x20;
 
 [I want to become a new NFT artist. ](nft-artist/how-to-become-an-nft-artist-intro/)
 

@@ -12,7 +12,7 @@ To create an NFT you first need to have an account on DeSo. Without a DeSo accou
 
 {% embed url="https://desocialworld.com" %}
 
-[CLICK HERE IF YOU WANT TO LEARN HOW TO CREATE AN ACCOUNT](../../beginners-guide/welcome/how-do-you-make-a-deso-identity.md)
+[CLICK HERE IF YOU WANT TO LEARN HOW TO CREATE AN ACCOUNT](../../users-guide/welcome/how-do-you-make-a-deso-identity.md)
 
 
 
