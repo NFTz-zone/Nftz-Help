@@ -32,6 +32,18 @@ This error can cause multiple things. If you want to mint a NFT you can receive 
 
 
 
+**Can't claim an NFT**
+
+Did you finish all requirements to claim the NFT? If you keep on loading a signout and sign in again can sometimes resolve the issues.&#x20;
+
+
+
+**Bidding doesnt work**
+
+Sometimes when people have multiple accounts a bug prevents from bidding on a NFT. By signing out and in again should resolve the issue.&#x20;
+
+
+
 **Network problems**
 
 The network of Deso might not work as intented. Depending on the severity; relogging might work. If it worse, feel free to contact us. We can investigate the issue. &#x20;
