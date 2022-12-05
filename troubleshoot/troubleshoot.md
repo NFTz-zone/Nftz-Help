@@ -73,6 +73,12 @@ My 3D NFT only shows an image or video but no 3D button.
 
 
 
+**Galleries wont switch when using the gallery menu**
+
+There is currently a bug preventing sometimes to switch to your made galleries. We suspect it has to do with NFTs being listed that arent in your possesssion anymore. By using the URL directly in your adress browser bar it should load correctly.
+
+
+
 **I can't find the Unlockable Content feature**
 
 This feature was almost never used and confuses new users, so we decided to remove it to make it an easier experience. There is a workaround. It's still possible to send a direct message to a buyer of an NFT and send a file through mail or use a dropbox.&#x20;
