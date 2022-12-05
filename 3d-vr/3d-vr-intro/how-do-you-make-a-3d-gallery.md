@@ -21,7 +21,7 @@ There are multiple ways to make a 3D gallery. First it's good to know how an aut
 
 2\. Press **'='** in the top-right corner of your screen.
 
-3\. Choose '**Galleries**'.
+3\. Choose '**Manage'** and then '**Galleries**'.
 
 4\. Click '**Featured**' on 'Manage gallery'.
 

@@ -8,7 +8,7 @@ On NFTz.me its possible to make your own galleries. This is very handy if you co
 
 2\. Press **'='** in the top-right corner of your screen.
 
-3\. Choose '**Galleries**'.
+3\. Choose '**Manage'** and then '**Galleries**'.
 
 4\. Click '**Featured**' on 'Manage gallery'.
 

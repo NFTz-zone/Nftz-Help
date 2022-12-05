@@ -2,7 +2,7 @@
 
 1\. Go to your personal page.
 
-2\. Click on '**Galleries**' and choose your selfmade gallery.
+2\. Click on '**Manage'** and then '**Galleries**' and choose your selfmade gallery.
 
 3\. Copy the URL of the gallery. (for example: naderheads.nftz.me/g/Genesis-Series)
 

@@ -2,9 +2,9 @@
 
 1\. Press **'='** on the top-right of your screen. After Log in.
 
-2\. Choose “**Galleries**'.
+2\. Choose **Manage and then** “**Galleries**'.
 
-3\. Click '**Manage gallery**'.
+3\. Click '**Manage'** and then **gallery**'.
 
 4\. Choose '**New…**' (or find the gallery if you already created it)
 

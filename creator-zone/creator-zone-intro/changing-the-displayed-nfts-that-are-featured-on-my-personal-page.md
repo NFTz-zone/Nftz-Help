@@ -2,11 +2,9 @@
 
 1. &#x20;Log in with your account.
 2. Click **“=”** on your personal nftz.zone page in the top-right corner.
-3. Choose **'Galleries'.**
+3. Choose '**Manage'** and then **'Galleries'.**
 4. Left side: All currently owned NFT's         Right side: All NFT's you want on display&#x20;
 5. Simply click the NFTs you want to show so they appear on the right side.
 6. When you're finished, click '<mark style="color:green;">**save**</mark>'.
-
-{% file src="../../.gitbook/assets/Tutorial #1 setting up a featured page.gif" %}
 
 <figure><img src="../../.gitbook/assets/Gallery.jpg" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@ For using NFTz you need a Deso Identity. Think of it like making an account but 
 
 **Making an account**
 
-1. Go to **https:nftz.me**
+1. Go to **https://nftz.me**
 2. Click on **'Connect'**
 3. Choose either **'Sign up with DeSo seed' or 'Sign up / log in with MetaMask'.**
 4. If you choose the former, write down your seed phrase and secure it somewhere very safe (Dont ever lose it; or give it away; its your wallet!)
