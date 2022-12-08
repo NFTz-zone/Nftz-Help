@@ -13,7 +13,9 @@ It's possible to add unlockable content to NFTs at NFTz. This service is not for
 
 5b. You can press on the square behind '**upload file?**' Afterwards you can '**choose file**'.&#x20;
 
-6\. Click **'**<mark style="color:green;">**Add Unlockable**</mark>'&#x20;
+&#x20; 6\. Click **'**<mark style="color:green;">**Add Unlockable**</mark>'&#x20;
+
+&#x20; 7\. [Mint](how-do-you-mint-sell-an-nft.md) the NFT.&#x20;
 
 
 
