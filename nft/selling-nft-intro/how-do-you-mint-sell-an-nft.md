@@ -17,12 +17,6 @@ At this page we learn how you mint an NFT.
 
 Congratulations you have just minted an NFT! :thumbsup:
 
-
-
-**It doesnt work:**
-
-If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
-
 <details>
 
 <summary>Extra Options (for experienced creators)</summary>
@@ -46,7 +40,7 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 
 
 
-**2B Unlockable Content**
+_**2B Unlockable Content**_
 
 A. In the more options (advanced and collection) menu it's possible to set unlockable content By switching to '**Yes**'
 
@@ -75,6 +69,14 @@ Currently you can choose:
 3. **'Arweave'** (For Arweave you need a URL Link)&#x20;
 
 </details>
+
+
+
+
+
+**It doesnt work:**
+
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
 
 {% file src="../../.gitbook/assets/Video How to Mint.mp4" %}
 Minting an NFT on Mobile
