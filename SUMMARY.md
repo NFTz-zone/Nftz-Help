@@ -43,6 +43,7 @@
   * [How do you update a timed auction?](nft/selling-nft-intro/how-do-you-update-a-timed-auction.md)
   * [How do you update a claimable NFT?](nft/selling-nft-intro/how-do-you-update-a-claimable-nft.md)
   * [How to set additional royalties? \[Advanced\]](nft/selling-nft-intro/how-to-set-additional-royalties-advanced.md)
+  * [How do add unlockable content? \[Advanced\]](nft/selling-nft-intro/how-do-add-unlockable-content-advanced.md)
   * [How to store an image on IPFS Piñata? \[Advanced\]](nft/selling-nft-intro/how-to-store-an-image-on-ipfs-pinata-advanced.md)
   * [How to use an Arweave link? \[Advanced\]](nft/selling-nft-intro/how-to-use-an-arweave-link-advanced.md)
   * [How to make a collection of your NFTs? \[Advanced\]](nft/selling-nft-intro/how-to-make-a-collection-of-your-nfts-advanced.md)
