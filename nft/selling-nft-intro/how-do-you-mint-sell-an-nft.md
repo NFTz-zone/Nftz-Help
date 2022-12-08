@@ -27,7 +27,7 @@ If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/t
 
 <summary>Extra Options (for experienced creators)</summary>
 
-\[Extra 1: Additional Royalties]
+**\[Extra 1: Additional Royalties]**
 
 It's possible to give other creators a royalty % on each sell of a NFT. There is no maximum of creators that can be added.&#x20;
 
@@ -35,20 +35,36 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 2. Choose the % you want to give. The minimum is 0.01%.
 3. Choose the creator you want to give royalty and press **'Add'**
 
-#### \[Extra 2:  More options (advanced and collection] NFT Category and Copies
+****
+
+**\[Extra 2: More Options (advanced and collection)]**
+
+#### _2A: NFT Category and Copies_&#x20;
 
 * You can change the NFT Category by Pressing 'Art'. The default is Art.&#x20;
 * You can change the amount of copies by pressing right of **'Copies'**. The default is '1'
 
 
 
-**\[Extra 3: More options (advanced and collection] Add extra / collection data**
+**2B Unlockable Content**
 
-To know more about this feature; go directly to [Traits by Extradata](how-to-add-traits-to-your-nft-by-form-expert.md)
+A. In the more options (advanced and collection) menu it's possible to set unlockable content By switching to '**Yes**'
+
+B1. You can write a text that will be transfered with the single or serial NFT.
+
+B2 You can also add a file or a zip. A zip file can be used if it includes multiple files or is a really large file.&#x20;
+
+C. Press '**Add Unlockable**'.
 
 
 
-**\[Extra 4: Image Storage] Changing Image Storage**
+_**2C: Add extra / collection data**_
+
+* To know more about this feature; go directly to [Traits by Extradata](how-to-add-traits-to-your-nft-by-form-expert.md)
+
+
+
+**\[Extra 3: Image Storage]**&#x20;
 
 In the begin screen of the mint page underneath 'Image Storage' it's possible to change the place where you store your image.&#x20;
 
