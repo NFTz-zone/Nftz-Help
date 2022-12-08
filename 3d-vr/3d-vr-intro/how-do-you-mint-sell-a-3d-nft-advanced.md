@@ -60,7 +60,7 @@ _b. Press ‘**Capture Screenshot**’ if you want to show only 1 inanimate scre
 
 <summary>Extra Options (for experienced creators)</summary>
 
-**\[Extra 1: Additional Royalties]**
+**\[Extra 1:** [**Additional Royalties**](../../nft/selling-nft-intro/royalties.md)**]**
 
 It's possible to give other creators a royalty % on each sell of a NFT. There is no maximum of creators that can be added.&#x20;
 
@@ -79,7 +79,7 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 
 
 
-_**2B Unlockable Content**_
+_**2B**_ [_**Unlockable Content**_](../../nft/selling-nft-intro/how-do-add-unlockable-content-advanced.md)_****_
 
 A. In the more options (advanced and collection) menu it's possible to set unlockable content By switching to '**Yes**'
 
@@ -97,7 +97,7 @@ _**2C: Add extra / collection data**_
 
 
 
-**\[Extra 3: Image Storage]**&#x20;
+**\[Extra 3:** [**Image Storage**](../../nft/selling-nft-intro/how-to-store-an-image-on-ipfs-pinata-advanced.md)**]**&#x20;
 
 In the begin screen of the mint page underneath 'Image Storage' it's possible to change the place where you store your image.&#x20;
 
@@ -105,7 +105,7 @@ Currently you can choose:
 
 1. **'Deso'**
 2. **'IPFS'**
-3. **'Arweave'** (For Arweave you need a URL Link)&#x20;
+3. **'Arweave'** (For Arweave you need a URL Link)
 
 </details>
 
