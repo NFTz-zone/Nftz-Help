@@ -1,6 +1,6 @@
 # How do you mint an Audio NFT?
 
-At this page we learn how you mint an audio NFT. You can mint an album with multiple songs attached to it and a front cover. Also its possible to mint multiple copies of the NFT.&#x20;
+At this page we learn how you mint an audio NFT. You can mint an album with multiple songs attached to it and a front cover. Also its possible to mint multiple copies of the NFT. You can sell the album or song(s) or make it [claimable](how-do-you-create-a-claimable-free-nft.md) for free. Also it is possible to [transfer](how-to-transfer-an-nft.md) it to different creators.&#x20;
 
 
 
@@ -13,7 +13,7 @@ At this page we learn how you mint an audio NFT. You can mint an album with mult
 5. Type in your **Audio NFT Title** (album name). With this you can show your album name. &#x20;
 6. Type in **Audio NFT Creator / Musician / Author.** This will show who has created the audio file.
 7. Choose the **Music Category** or leave it at Audio no music.&#x20;
-8. Add 1 or multiple audio tracks. With '**Choose File**'. We currently support (mp3,ogg,wav)
+8. Add a track. With '**Choose File**'. We currently support (mp3,ogg,wav) If you would like add another track you can press '**Add New Track**'.&#x20;
 9. **Type** in the title of the song and who has created this song.&#x20;
 10. Press '**Prepare Audio NFT**'. \[<mark style="color:green;">**IMPORTANT!**</mark>]
 11. Fill in your desired text at '**Text for your NFT'.** This can be some background information about the album or song(s).&#x20;
