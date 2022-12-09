@@ -20,6 +20,7 @@
 * [Buying NFT Intro](nft/buying-nft-intro/README.md)
   * [How to buy an NFT?](nft/buying-nft-intro/how-to-buy-an-nft.md)
   * [How to claim a free NFT?](nft/buying-nft-intro/how-to-claim-a-free-nft.md)
+  * [How to see unlockable content?](nft/buying-nft-intro/how-to-see-unlockable-content.md)
   * [How does the NFTz market work for a buyer?](nft/buying-nft-intro/how-does-the-nftz-market-work-for-a-buyer.md)
   * [How can I see the cheapest NFTs a creator has for sale?](nft/buying-nft-intro/how-can-i-see-the-cheapest-nfts-a-creator-has-for-sale.md)
   * [How can I see my ongoing bids?](nft/buying-nft-intro/how-can-i-see-my-ongoing-bids.md)
