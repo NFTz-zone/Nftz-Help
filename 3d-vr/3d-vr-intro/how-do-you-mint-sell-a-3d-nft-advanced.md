@@ -79,7 +79,7 @@ It's possible to give other creators a royalty % on each sell of a NFT. There is
 
 
 
-_**2B**_ [_**Unlockable Content**_](../../nft/selling-nft-intro/how-do-add-unlockable-content-advanced.md)_****_
+_**2B**_ [_**Unlockable Content**_](../../nft/selling-nft-intro/how-to-add-unlockable-content-advanced.md)_****_
 
 A. In the more options (advanced and collection) menu it's possible to set unlockable content By switching to '**Yes**'
 
