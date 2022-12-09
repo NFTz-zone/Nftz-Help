@@ -1,27 +1,27 @@
-# How do you mint an Audio NFT?
+# How to mint an Audio NFT?
 
-At this page we learn how you mint an audio NFT. You can mint an album with multiple songs attached to it and a front cover. Also its possible to mint multiple copies of the NFT. You can sell the album or song(s) or make it [claimable](how-do-you-create-a-claimable-free-nft.md) for free. Also it is possible to [transfer](how-to-transfer-an-nft.md) it to different creators.&#x20;
+Users on NFTz are able to mint an album with multiple tracks attached to it as well as a cover photo. It's also possible to mint any such NFT with multiple copies. This NFT can then be sold, made [claimable](how-do-you-create-a-claimable-free-nft.md) for free, or [transferred](how-to-transfer-an-nft.md) to different user(s).&#x20;
 
 
 
 **Mint an Audio NFT:**
 
 1. &#x20;[Log in](../../users-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
-2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
-3. Choose '**Audio**' at Image/Video/**Audio**/3D.&#x20;
-4. Drag & Drop your image or **'Browse'** and select your file. This is the cover of your single or album. (we support JPG/PNG/GIF/AVI/MP4)
+2. Go to the top-right on your screen, press the '**=**' button and then choose '**Mint**'. (If on a desktop device press **'Mint'** directly on the top of your screen.)
+3. Choose the '**Audio**' option from the Image/Video/**Audio**/3D menu.&#x20;
+4. Drag & Drop your image or **'Browse'**  your device **** and select your desired file. This image will act as the cover photo of your single track or album. (we support JPG/PNG/GIF/AVI/MP4)
 5. Type in your **Audio NFT Title** (album name). With this you can show your album name. &#x20;
 6. Type in **Audio NFT Creator / Musician / Author.** This will show who has created the audio file.
-7. Choose the **Music Category** or leave it at Audio no music.&#x20;
-8. Add a track. With '**Choose File**'. We currently support (mp3,ogg,wav) If you would like add another track you can press '**Add New Track**'.&#x20;
+7. Choose the **Music Category** or leave it on "Audio no music".&#x20;
+8. Add a track by selecting '**Choose File**'. We currently support (.mp3, .ogg, .wav). If you would like to add another track you can press '**Add New Track**'.&#x20;
 9. **Type** in the title of the song and who has created this song.&#x20;
 10. Press '**Prepare Audio NFT**'. \[<mark style="color:green;">**IMPORTANT!**</mark>]
-11. Fill in your desired text at '**Text for your NFT'.** This can be some background information about the album or song(s).&#x20;
-12. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
+11. Fill in your desired text in the box that says '**Text for your NFT'.** This can include background information about the album or song(s).&#x20;
+12. Fill in '**Min Bid'** \[minimum bid you'd accept], as well as a **** '**Buy Now'** price, if desired. ****&#x20;
 13. **\[Optional]** Royalties are default on 10% creator Royalty and 5% Coin Holder Royalty.              \[If you are not sure what to do with **royalties** we advise leaving at the default numbers]   &#x20;
-14. **\[Optional]** If you would like to add **additional royalties** expand the button and add the creators.&#x20;
-15. **\[Optional]** If you would like to add an '**Unlockable**' expand 'More options (advanced and collection) and choose '**Yes**'. You can then write a text or upload a file. Press then '**Add Unlockable**'.&#x20;
-16. **\[Optional]** If you would like to change the **amount of copies** expand 'More options (advanced and collection)' and change the number of copies.&#x20;
+14. **\[Optional]** If you would like to add **additional royalties** expand the button and add the creators you'd like to include.&#x20;
+15. **\[Optional]** If you would like to add '**Unlockable**' content then please expand the 'More options (advanced and collection)" menu and choose '**Yes**'. You can then write text or upload a file. Then press '**Add Unlockable**'.&#x20;
+16. **\[Optional]** If you would like to change the **number of copies** you are offering then expand the 'More options (advanced and collection)' menu and change the number of copies.&#x20;
 17. Press '<mark style="color:green;">**Mint Now**</mark>'.
 
 
@@ -83,6 +83,6 @@ Currently you can choose:
 
 
 
-**It doesnt work:**
+**It doesn't work:**
 
-If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
+Please go to our [troubleshoot](../../troubleshoot/troubleshoot.md) page or contact us on our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
