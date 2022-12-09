@@ -20,8 +20,9 @@ At this page we learn how you mint an audio NFT. You can mint an album with mult
 12. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
 13. **\[Optional]** Royalties are default on 10% creator Royalty and 5% Coin Holder Royalty.              \[If you are not sure what to do with **royalties** we advise leaving at the default numbers]   &#x20;
 14. **\[Optional]** If you would like to add **additional royalties** expand the button and add the creators.&#x20;
-15. **\[Optional]** If you would like to change the **amount of copies** expand 'More options (advanced and collection)' and change the number of copies.&#x20;
-16. Press '<mark style="color:green;">**Mint Now**</mark>'.
+15. **\[Optional]** If you would like to add an '**Unlockable**' expand 'More options (advanced and collection) and choose '**Yes**'. You can then write a text or upload a file. Press then '**Add Unlockable**'.&#x20;
+16. **\[Optional]** If you would like to change the **amount of copies** expand 'More options (advanced and collection)' and change the number of copies.&#x20;
+17. Press '<mark style="color:green;">**Mint Now**</mark>'.
 
 
 
