@@ -1,19 +1,29 @@
-# How do you mint / sell an NFT?
+# How do you mint an Audio NFT?
 
-At this page we learn how you mint an NFT.
+At this page we learn how you mint an audio NFT. You can mint an album with multiple songs attached to it and a front cover. Also its possible to mint multiple copies of the NFT.&#x20;
 
 
 
-**Mint an NFT:**
+**Mint an Audio NFT:**
 
 1. &#x20;[Log in](../../users-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
 2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
-3. Choose **Image**/**Video/**[**3D**](../../3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)****
-4. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)
-5. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
-6. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
-7. [Royalties](royalties.md) are default on 10% creator Royalty and 5% Coin Holder Royalty. \[If you are not sure what to do with royalties we advise leaving at the default numbers]   &#x20;
-8. Press '<mark style="color:green;">**Mint Now**</mark>'.
+3. Choose '**Audio**' at Image/Video/**Audio**/3D.&#x20;
+4. Drag & Drop your image or **'Browse'** and select your file. This is the cover of your single or album. (we support JPG/PNG/GIF/AVI/MP4)
+5. Type in your **Audio NFT Title** (album name). With this you can show your album name. &#x20;
+6. Type in **Audio NFT Creator / Musician / Author.** This will show who has created the audio file.
+7. Choose the **Music Category** or leave it at Audio no music.&#x20;
+8. Add 1 or multiple audio tracks. With '**Choose File**'. We currently support (mp3,ogg,wav)
+9. **Type** in the title of the song and who has created this song.&#x20;
+10. Press '**Prepare Audio NFT**'. \[<mark style="color:green;">**IMPORTANT!**</mark>]
+11. Fill in your desired text at '**Text for your NFT'.** This can be some background information about the album or song(s).&#x20;
+12. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
+13. **\[Optional]** Royalties are default on 10% creator Royalty and 5% Coin Holder Royalty.              \[If you are not sure what to do with **royalties** we advise leaving at the default numbers]   &#x20;
+14. **\[Optional]** If you would like to add **additional royalties** expand the button and add the creators.&#x20;
+15. **\[Optional]** If you would like to change the **amount of copies** expand 'More options (advanced and collection)' and change the number of copies.&#x20;
+16. Press '<mark style="color:green;">**Mint Now**</mark>'.
+
+
 
 Congratulations you have just minted an NFT! :thumbsup:
 
@@ -72,16 +82,6 @@ Currently you can choose:
 
 
 
-
-
 **It doesnt work:**
 
 If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce).&#x20;
-
-{% file src="../../.gitbook/assets/Video How to Mint.mp4" %}
-Minting an NFT on Mobile
-{% endfile %}
-
-<figure><img src="../../.gitbook/assets/Mint Page 1 (1).jpg" alt=""><figcaption><p>1/2</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Mint Page 2.jpg" alt=""><figcaption><p>2/2</p></figcaption></figure>

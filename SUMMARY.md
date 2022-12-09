@@ -32,6 +32,7 @@
   * [Royalties](nft/selling-nft-intro/royalties.md)
   * [Burning](nft/selling-nft-intro/burning.md)
   * [How do you mint / sell an NFT?](nft/selling-nft-intro/how-do-you-mint-sell-an-nft.md)
+  * [How do you mint an Audio NFT?](nft/selling-nft-intro/how-do-you-mint-an-audio-nft.md)
   * [How do you create a claimable free NFT?](nft/selling-nft-intro/how-do-you-create-a-claimable-free-nft.md)
   * [How to Transfer an NFT?](nft/selling-nft-intro/how-to-transfer-an-nft.md)
   * [How to burn an NFT?](nft/selling-nft-intro/how-to-burn-an-nft.md)
