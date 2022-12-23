@@ -15,11 +15,11 @@ At NFTz it's possible to create a claimable free NFT that will automatically be 
 * User must follow you
 * User must repost NFT
 * User must like NFT
-* User must diamond NFT
+* User must diamond NFT (min 1 to 4 diamonds req)
 
 You can also choose to leave them all off.
 
-8\. Press '**Add Action**'.
+8\. Press '**Update Auction**'.
 
 
 
@@ -35,6 +35,4 @@ If you continue receiving errors you can go to our [troubleshoot](../../troubles
 
 <figure><img src="../../.gitbook/assets/Screenshot_20221110-142335_Chrome.jpg" alt=""><figcaption><p>Get Derived Key</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20221110-142514_Chrome.jpg" alt=""><figcaption><p>Choose conditions and press Add Action</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Screenshot_20221110-142610_Chrome.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20221223-162446_Chrome.jpg" alt=""><figcaption></figcaption></figure>
