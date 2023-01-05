@@ -37,7 +37,7 @@
   * [How to Transfer an NFT?](nft/selling-nft-intro/how-to-transfer-an-nft.md)
   * [How to burn an NFT?](nft/selling-nft-intro/how-to-burn-an-nft.md)
   * [How to hide an NFT?](nft/selling-nft-intro/how-to-hide-an-nft.md)
-  * [How to close an NFT auction?](nft/selling-nft-intro/how-to-close-an-nft-auction.md)
+  * [How to close an NFT auction? / Remove from sale](nft/selling-nft-intro/how-to-close-an-nft-auction-remove-from-sale.md)
   * [How to reopen an NFT auction?](nft/selling-nft-intro/how-to-reopen-an-nft-auction.md)
   * [How do you make a timed auction?](nft/selling-nft-intro/how-do-you-make-a-timed-auction.md)
   * [How do you cancel a timed auction?](nft/selling-nft-intro/how-do-you-cancel-a-timed-auction.md)
