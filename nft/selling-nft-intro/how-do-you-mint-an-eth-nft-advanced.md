@@ -9,7 +9,7 @@ At this page we learn how you mint an NFT minted at the ethereum blockchain. Thi
 1. &#x20;[Log in](../../users-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
 2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
 3. Select '**Ethereum'** instead of Deso.&#x20;
-4. There should be a popup window to **Connect your Metamask Wallet** by typing in your password. (If you dont have a metamask wallet, make sure to create one)
+4. There should be a popup window on PC to **Connect your Metamask Wallet** by typing in your password. ( If you dont have a metamask wallet, make sure to create one)
 5. If prompted to switch network choose '**Switch Network**'. Choose then '**Next**'. After this choose '**Connect**'. (After this you should be able to see your connected wallet address)
 6. Choose '**Lazy**' or '**On Chain**'.&#x20;
 7. Choose **Image**/**Video/**[**Audio**](how-to-mint-an-audio-nft.md)**/**[**3D**](../../3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)****

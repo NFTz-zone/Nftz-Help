@@ -85,6 +85,12 @@ This feature was almost never used and confuses new users, so we decided to remo
 
 
 
+**My Metamask won't connect when minting on my Phone**
+
+Make sure your metamask app is up to date. Also make sure you have created a metamask wallet.&#x20;
+
+
+
 
 
 
