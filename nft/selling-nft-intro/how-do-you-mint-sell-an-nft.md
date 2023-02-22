@@ -8,7 +8,7 @@ At this page we learn how you mint an NFT.
 
 1. &#x20;[Log in](../../users-guide/welcome/how-do-you-login-to-nftz.me.md) on your username.nftz.me&#x20;
 2. Go to the top-right on your screen and press the '**=**' button and choose '**Mint**'. (If you own a PC you can also Press **'Mint'** directly on the top screen.)
-3. Choose **Image**/**Video/**[**3D**](../../3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)****
+3. Choose **Image**/**Video//**[**Audio**](how-to-mint-an-audio-nft.md)**/**[**3D**](../../3d-vr/3d-vr-intro/how-do-you-mint-sell-a-3d-nft-advanced.md)****
 4. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)
 5. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
 6. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
