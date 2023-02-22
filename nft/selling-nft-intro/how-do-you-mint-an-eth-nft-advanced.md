@@ -16,7 +16,7 @@ At this page we learn how you mint an NFT minted at the ethereum blockchain. Thi
 8. Drag & Drop your image/video or **'Browse'** and select your file. (we support JPG/PNG/GIF/AVI/MP4)
 9. Type in your text for '**Name for your NFT**'.&#x20;
 10. Fill in your desired text at '**Text for your NFT'.** This can be anything you'd like, including the name/number of the NFT, a short description, etc.
-11. Fill in '**Min Bid'**  the desired amount of Deso **or** fill in the desired amount of Deso at '**Buy Now'.** \[Only filling in Buy Now is easier if you don't know what to do]    &#x20;
+11. Fill in next to ' **price'**  the desired amount of ETH you want to receive for your NFT.     &#x20;
 12. [Royalties](royalties.md) are default on 10% creator Royalty \[If you are not sure what to do with royalties we advise leaving at the default numbers]   &#x20;
 13. Press '<mark style="color:green;">**Mint Now**</mark>'.
 14. '**Sign**' the signature request from Metamask.&#x20;
