@@ -1,12 +1,13 @@
 # How do you make  a metamask wallet? \[PC]
 
-For buying and selling NFTs on Ethereum you will need a metamask wallet. This page will show you how to set up your metamask wallet. For the use of Deso NFTs you won't need a metamask wallet. We advise using google chrome as browser for the most optimised user experience.&#x20;
+For buying and selling NFTs on Ethereum you will need a metamask wallet. This page will show you how to set up your metamask wallet. For the use of Deso NFTs you won't need a metamask wallet. We advise using google chrome as browser for the most optimised user experience. When using Ethereum features on NFTz you will get an automatically popup of the metamask extension.&#x20;
 
 **Making a metamask Wallet:**
 
 1. Go to [https://metamask.io/](https://metamask.io/)
 2. Press the blue button '**Download for Chrome**'.
 3. Install the extension by choossing '**Install MetaMask for Chrome**'. (This extension will be used by NFTz for signature requests)
+4. In your browser press right in the top the '**Puzzle icon**' and follow the steps to set up your metamask wallet. Remember to keep your password safe and private.&#x20;
 
 
 
