@@ -1,6 +1,6 @@
 # How do you make  a metamask wallet? \[iphone]
 
-For buying and selling NFTs on Ethereum you will need a metamask wallet. This page will show you how to set up your metamask wallet. For the use of Deso NFTs you won't need a metamask wallet. We advise using google chrome as browser for the most optimised user experience. When using Ethereum features on NFTz you will get an automatically popup of the metamask app. **Features are currently in Beta and might not yet work.**
+For buying and selling NFTs on Ethereum you will need a metamask wallet. This page will show you how to set up your metamask wallet. For the use of Deso NFTs you won't need a metamask wallet. We advise using google chrome as your browser for the most optimized user experience. When using Ethereum features on NFTz you will get an automatic popup of the metamask app. **Note: Features are currently in Beta and there may still be bugs.**
 
 **Making a metamask Wallet:**
 
@@ -29,9 +29,9 @@ Congratulations! You have your very own metamask wallet.
 
 
 
-**It doesnt work:**
+**It this doesn't work:**
 
-If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce). Also for issues related to the metamask wallet you can go to the [official help page](https://support.metamask.io/hc/en-us)[.](https://support.metamask.io/hc/en-us)
+If you keep getting errors you can go to our [troubleshoot](../../troubleshoot/troubleshoot.md) page or contact us at our [telegram](https://t.me/+qdNeX8CYB\_swZTQx) or [Discord](https://discord.gg/jQ34WMMZce). Also for issues related to the metamask wallet you can go to the [official help page](https://support.metamask.io/hc/en-us)[.](https://support.metamask.io/hc/en-us)
 
 <figure><img src="../../.gitbook/assets/Iphone.jpg" alt=""><figcaption></figcaption></figure>
 
